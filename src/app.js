@@ -45,17 +45,9 @@ app.get('/api/health', (req, res) => {
 app.use('/api', notFound);
 
 // Serve Frontend in Production
-// In deployment, the built frontend will be inside public/
-const publicPath = path.join(__dirname, '../public');
-app.use(express.static(publicPath));
-
-// For any other route (React Router), send the frontend index.html
-app.use((req, res, next) => {
-  if (req.method === 'GET') {
-    res.sendFile(path.join(publicPath, 'index.html'));
-  } else {
-    next();
-  }
+// Health check route for the root URL
+app.get('/', (req, res) => {
+  res.json({ message: 'Nova Growth Backend API is running successfully!' });
 });
 
 // General Error Handling
