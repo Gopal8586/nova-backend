@@ -1,0 +1,4089 @@
+{
+  "attendant-at-home-delhi-ncr": {
+    "id": "attendant-at-home-delhi-ncr",
+    "seo": {
+      "title": "Attendant at Home in Delhi NCR | Patient & Elderly Care Attendants",
+      "description": "Hire trained attendants for patient care, elderly support and daily assistance at home. Flexible hourly, daily and monthly plans available.",
+      "keywords": "patient attendant at home, elderly attendant service, home attendant service, care attendant near me, bedridden patient attendant, 24 hour attendant, home caregiver attendant, elder care attendant, personal care attendant, daily living assistance, home support worker, elderly support service, attendant at home delhi",
+      "focusKeyword": "Attendant at Home Delhi NCR",
+      "ogTitle": "Professional Home Attendant Services in Delhi NCR",
+      "ogDescription": "Reliable attendants for patient support, elderly care and daily assistance.",
+      "h1": "Attendant at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Person"
+      ]
+    },
+    "categoryId": "home-healthcare",
+    "title": "Attendant at Home",
+    "subtitle": "Compassionate, Trained Attendants for Daily Support",
+    "heroImage": "/Images/Services/attendant_at_home.webp",
+    "comprehensiveDescription": "Compassionate, trained attendants for daily support and patient comfort. Professional healthcare attendants available for round-the-clock care, assistance with daily activities, medication reminders, and emotional support for patients and families.",
+    "comprehensiveParagraphs": [
+      "Our trained attendants provide essential daily living assistance and personal care support for patients and elderly individuals in the comfort of their homes. Whether it's post-operative care, elderly assistance, or mobility support, our attendants ensure dignity, comfort, and continuity of care.",
+      "With cost-friendly services compared to hospital stays and the emotional comfort of being at home, our attendant care service provides personalized support tailored to individual needs. Our attendants are trained to assist with daily activities while maintaining the highest standards of hygiene and care."
+    ],
+    "features": [
+      {
+        "title": "Personal Hygiene",
+        "description": "Bathing, grooming, and personal care assistance.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Mobility Assistance",
+        "description": "Walking support and safe transfers.",
+        "icon": "FaWalking"
+      },
+      {
+        "title": "Feeding & Meals",
+        "description": "Meal assistance and feeding support.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Medication Reminders",
+        "description": "Timely medication reminders and alerts.",
+        "icon": "FaPills"
+      },
+      {
+        "title": "Vitals Monitoring",
+        "description": "Basic vitals check and health monitoring.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Light Housekeeping",
+        "description": "Bed-linen change, laundry, and cleanliness.",
+        "icon": "FaHome"
+      }
+    ],
+    "staff": [
+      {
+        "title": "Certified Training",
+        "description": "All attendants undergo comprehensive training programs and hold valid certificates in patient care and assistance.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Background Checks",
+        "description": "Rigorous background verification and ID verification for all staff members to ensure safety and trust.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Health Protocols",
+        "description": "Vaccination records verified and strict hygiene protocols followed for patient safety and infection control.",
+        "icon": "FaNotesMedical"
+      },
+      {
+        "title": "Language Match",
+        "description": "Attendants matched based on language preferences and local-linguistic compatibility for better communication.",
+        "icon": "FaUserMd"
+      }
+    ],
+    "pricingTitle": "Pricing Packages & Flexible Scheduling",
+    "pricing": [
+      {
+        "name": "Hourly",
+        "price": "₹200/hr",
+        "duration": "4-12 hrs (Min 4 hrs)",
+        "description": "Flexible hourly service for short-term needs.",
+        "features": [
+          "Flexible timing",
+          "Short-term care"
+        ]
+      },
+      {
+        "name": "Day Shift",
+        "price": "₹1,500/day",
+        "duration": "8-12 hrs",
+        "description": "Full day attendant service.",
+        "features": [
+          "Full day care",
+          "Regular schedule"
+        ]
+      },
+      {
+        "name": "Night Shift",
+        "price": "₹1,800/night",
+        "duration": "8-12 hrs",
+        "description": "Overnight care and monitoring.",
+        "features": [
+          "Overnight care",
+          "Emergency support"
+        ]
+      },
+      {
+        "name": "Live-in",
+        "price": "₹35,000/month",
+        "duration": "24/7",
+        "description": "Round-the-clock live-in attendant.",
+        "features": [
+          "Round-the-clock",
+          "Monthly package"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Nursing Supervision (Regular nurse visits)"
+      },
+      {
+        "title": "Physiotherapy Sessions"
+      },
+      {
+        "title": "Language-Matched Attendant"
+      },
+      {
+        "title": "Weekend/Emergency Service"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does a home attendant do?",
+        "answer": "A home attendant assists with activities of daily living (ADLs) such as bathing, dressing, feeding, mobility assistance, and maintaining patient hygiene."
+      },
+      {
+        "question": "Can attendants stay 24 hours?",
+        "answer": "Yes, we provide dedicated live-in attendants who stay with the patient 24/7 to provide continuous support."
+      },
+      {
+        "question": "Are attendants background verified?",
+        "answer": "Yes, all our attendants undergo strict background checks, medical screening, and professional training before deployment."
+      },
+      {
+        "question": "Do attendants provide medical care?",
+        "answer": "Attendants focus on non-medical support and hygiene. For medical tasks like injections or wound dressing, we recommend hiring a qualified nurse."
+      },
+      {
+        "question": "Can I hire for night shifts only?",
+        "answer": "Yes, we offer highly flexible 12-hour day or night shift plans depending on your family's needs."
+      },
+      {
+        "question": "Is replacement available?",
+        "answer": "Absolutely, if you are not satisfied or if an attendant takes leave, we provide a prompt replacement."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "baby-care-at-home-delhi-ncr": {
+    "id": "baby-care-at-home-delhi-ncr",
+    "seo": {
+      "title": "Baby Care at Home in Delhi NCR | Newborn & Infant Care Services",
+      "description": "Professional baby care services at home in Delhi NCR. Trained caregivers for newborn care, infant support, feeding assistance, sleep routines and postnatal care.",
+      "keywords": "baby care at home, newborn care service, infant care at home, baby caregiver service, newborn babysitter, night nanny service, baby nurse at home, postnatal baby care, newborn care delhi, baby care noida, night nanny gurgaon, infant care ghaziabad, baby sitter faridabad, newborn care service, infant caregiver, professional nanny, baby support service, postnatal assistance",
+      "focusKeyword": "Baby Care at Home Delhi NCR",
+      "ogTitle": "Trusted Baby Care at Home | Newborn & Infant Support",
+      "ogDescription": "Certified baby caregivers providing newborn care, feeding support and postnatal assistance at home.",
+      "h1": "Professional Baby Care at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Person"
+      ]
+    },
+    "categoryId": "home-healthcare",
+    "title": "Baby Care at Home",
+    "subtitle": "Trusted Newborn & Baby Care from Trained Professionals",
+    "heroImage": "/Images/Services/baby care.webp",
+    "comprehensiveDescription": "Trusted newborn and baby care from trained professionals. Experienced baby care specialists providing round-the-clock care, feeding support, hygiene maintenance, and expert guidance for new parents in the comfort of their home.",
+    "comprehensiveParagraphs": [
+      "Our trained baby care specialists provide comprehensive newborn and infant care services in the comfort of your home. From breastfeeding support and sleep training to developmental activities and early bonding, we ensure your baby receives the best care while you get the rest and support you need.",
+      "Our services include newborn care for the first 0–3 months, breastfeeding counseling, bottle feeding guidance, bathing and nappy changing, sleep training, basic infant massage, developmental play, and night babysitting to help parents get adequate rest."
+    ],
+    "features": [
+      {
+        "title": "Newborn Care",
+        "description": "Specialized care for 0–3 months.",
+        "icon": "FaBaby"
+      },
+      {
+        "title": "Breastfeeding Support",
+        "description": "Latch support & counseling.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Bottle Feeding",
+        "description": "Feeding & sterilization assistance.",
+        "icon": "FaBaby"
+      },
+      {
+        "title": "Bathing & Hygiene",
+        "description": "Nappy changing & soothing.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Sleep Training",
+        "description": "Routine setup & sleep support.",
+        "icon": "FaBed"
+      },
+      {
+        "title": "Infant Massage",
+        "description": "Basic massage & developmental play.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Night Babysitting",
+        "description": "Overnight care for parents' rest.",
+        "icon": "FaBaby"
+      },
+      {
+        "title": "Postnatal Support",
+        "description": "Light help for new mothers.",
+        "icon": "FaUserNurse"
+      }
+    ],
+    "staff": [
+      {
+        "title": "Trained Baby Nurses",
+        "description": "Certified caregivers with recognized certifications in baby care and newborn handling.",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "Background Verified",
+        "description": "Rigorous background checks, verified credentials, and comprehensive screening for trust and safety.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Health & Immunization",
+        "description": "All caregivers are immunization-checked, health-screened, and follow strict hygiene protocols.",
+        "icon": "FaNotesMedical"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Hourly Day Rate",
+        "price": "₹250/hr",
+        "duration": "Min 4 hrs",
+        "description": "",
+        "features": [
+          "Daytime care",
+          "Flexible timing"
+        ]
+      },
+      {
+        "name": "Night Shift",
+        "price": "₹2,000/night",
+        "duration": "8–12 hrs",
+        "description": "",
+        "features": [
+          "Overnight care",
+          "Parents' rest"
+        ]
+      },
+      {
+        "name": "Live-in Monthly",
+        "price": "₹40,000/month",
+        "duration": "24/7 care",
+        "description": "",
+        "features": [
+          "Full-time care",
+          "Monthly package"
+        ]
+      },
+      {
+        "name": "Newborn Starter",
+        "price": "₹15,000/week",
+        "duration": "First week",
+        "description": "",
+        "features": [
+          "Intensive care",
+          "Daily support"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How soon can I book a baby caregiver?",
+        "answer": "We can arrange a certified baby caregiver for your home within 12 to 24 hours of your initial request."
+      },
+      {
+        "question": "Are caregivers trained in newborn care?",
+        "answer": "Yes, our caregivers possess highly specialized training in infant CPR, neonatal handling, and safe sleep practices."
+      },
+      {
+        "question": "Can caregivers assist with breastfeeding support?",
+        "answer": "Absolutely, they are experienced in supporting new mothers with proper latching techniques, expressing milk, and managing feeding schedules."
+      },
+      {
+        "question": "Is overnight baby care available?",
+        "answer": "Yes, our dedicated night nanny service is available so parents can get uninterrupted sleep while their newborn is safely monitored."
+      },
+      {
+        "question": "Are background checks performed on caregivers?",
+        "answer": "Every caregiver undergoes a rigorous, multi-level police verification and medical screening process."
+      },
+      {
+        "question": "Can I hire a caregiver for only a few hours?",
+        "answer": "Yes, we offer highly flexible hourly, daily, and monthly engagement plans customized to your family's routine."
+      },
+      {
+        "question": "Do you provide emergency baby care support?",
+        "answer": "Yes, we provide emergency, same-day caregiver support depending on immediate availability."
+      },
+      {
+        "question": "Can caregivers handle twins?",
+        "answer": "Yes, we have specialized nannies experienced in successfully managing the dual demands of caring for twins or multiples."
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Excellent baby care service. The caregiver was experienced and caring. Helped us establish a good sleep routine for our newborn.",
+        "author": "Mrs. A. Sharma"
+      },
+      {
+        "text": "Professional and trustworthy service. The night babysitter gave us much-needed rest. Highly recommended for new parents.",
+        "author": "Mr. & Mrs. Patel"
+      },
+      {
+        "text": "The breastfeeding support was invaluable. Very knowledgeable and patient caregiver who helped us through the initial challenges.",
+        "author": "Ms. R. Kumar"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Care Plan",
+        "description": "Personalized care plan implementation.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Milestone Tracking",
+        "description": "Basic monitoring of developmental milestones.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Parent Updates",
+        "description": "Regular updates and open communication with parents.",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Background Checks",
+        "description": "Rigorous background verification and reference checks.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Child Safety Training",
+        "description": "Certified training in child safety and infant care.",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "CPR & First Aid",
+        "description": "CPR and infant first aid certification required.",
+        "icon": "FaHeartbeat"
+      }
+    ]
+  },
+  "caregiver-at-home-delhi-ncr": {
+    "id": "caregiver-at-home-delhi-ncr",
+    "seo": {
+      "title": "Professional Caregiver at Home in Delhi NCR | Personalized Patient Care",
+      "description": "Hire trained caregivers for dementia care, chronic illness management, elderly support and personalized home healthcare.",
+      "keywords": "professional caregiver, home caregiver service, caregiver near me, patient caregiver, dementia caregiver, alzheimers caregiver, palliative caregiver, chronic illness caregiver, home caregiving service, personalized care support, long term patient care, family caregiving assistance, caregiver service noida, elder care gurugram",
+      "focusKeyword": "Caregiver at Home Delhi NCR",
+      "ogTitle": "Professional Caregiver Services | Home Healthcare Support",
+      "ogDescription": "Expert caregivers for elderly care, dementia support and long-term patient assistance.",
+      "h1": "Caregiver at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Person"
+      ]
+    },
+    "categoryId": "home-healthcare",
+    "title": "Caregiver at Home",
+    "subtitle": "Professional Caregivers Delivering Clinical & Emotional Support",
+    "heroImage": "/Images/Services/caregiver at home.webp",
+    "comprehensiveDescription": "Professional caregivers delivering clinical & emotional support at home. Experienced and certified caregivers providing personalized care, medical assistance, companionship, and support for patients and families in the comfort of their home.",
+    "comprehensiveParagraphs": [
+      "Our professional caregivers provide comprehensive clinical and emotional support for patients requiring specialized care at home. From chronic condition management and medication administration to dementia care and palliative support, our caregivers are trained to handle complex medical needs with compassion and expertise.",
+      "Ideal for chronic patients, post-discharge care, elderly with cognitive decline, and those requiring palliative support. Our caregivers work closely with medical teams, maintain daily care logs, and coordinate with attending physicians to ensure continuity of care and improved patient outcomes."
+    ],
+    "features": [
+      {
+        "title": "Clinical Assistance",
+        "description": "Medication management, wound care, and health monitoring under nurse supervision.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Dementia Care",
+        "description": "Memory prompts, safe environment management, and cognitive support for Alzheimer's patients.",
+        "icon": "FaBrain"
+      },
+      {
+        "title": "Chronic Condition Management",
+        "description": "Diabetes, COPD, and other chronic disease support with daily monitoring.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Mobility & Exercise",
+        "description": "Assistance with mobility exercises and rehabilitation programs guided by physiotherapists.",
+        "icon": "FaWalking"
+      },
+      {
+        "title": "Emotional Support",
+        "description": "Companionship, conversation, reading, and daily routine maintenance for emotional well-being.",
+        "icon": "FaHandsHelping"
+      },
+      {
+        "title": "Palliative Care",
+        "description": "Compassionate end-of-life care with pain management and family support.",
+        "icon": "FaHandsHelping"
+      }
+    ],
+    "staff": [
+      {
+        "title": "Certified Training",
+        "description": "Certified Nursing Assistants (CNA) or equivalent certifications with specialized training in patient care.",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "Specialized Skills",
+        "description": "Specialized training in dementia care, palliative support, and chronic condition management.",
+        "icon": "FaBrain"
+      },
+      {
+        "title": "Continuous Learning",
+        "description": "Regular upskilling programs and supervision by medical teams to maintain highest care standards.",
+        "icon": "FaUserMd"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Assessment",
+        "price": "₹1,000",
+        "duration": "One-time",
+        "description": "",
+        "features": [
+          "Initial consultation",
+          "Care plan creation"
+        ]
+      },
+      {
+        "name": "Hourly Care",
+        "price": "₹350/hr",
+        "duration": "Min 4 hrs",
+        "description": "",
+        "features": [
+          "Flexible timing",
+          "Clinical support"
+        ]
+      },
+      {
+        "name": "Daily Package",
+        "price": "₹2,500/day",
+        "duration": "8–12 hrs",
+        "description": "",
+        "features": [
+          "Full day care",
+          "Daily logs"
+        ]
+      },
+      {
+        "name": "Live-in Monthly",
+        "price": "₹45,000/month",
+        "duration": "24/7 care",
+        "description": "",
+        "features": [
+          "Round-the-clock",
+          "Monthly package"
+        ]
+      }
+    ],
+    "specializedPricing": {
+      "items": [
+        {
+          "name": "Dementia Care",
+          "note": "Premium rates apply"
+        },
+        {
+          "name": "Palliative Care",
+          "note": "Premium rates apply"
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "question": "What is the difference between caregiver and attendant?",
+        "answer": "Caregivers often have specialized training to deal with behavioral, cognitive (like dementia), or long-term chronic illnesses, providing deep emotional and personalized support compared to general physical assistance."
+      },
+      {
+        "question": "Do caregivers handle dementia patients?",
+        "answer": "Yes, we provide specialized caregivers who are expertly trained to handle the mood swings and memory care requirements of Alzheimer's and dementia patients."
+      },
+      {
+        "question": "Can caregivers manage medications?",
+        "answer": "Yes, they meticulously track schedules, provide vital medication reminders, and ensure the patient takes their prescribed doses on time."
+      },
+      {
+        "question": "Are caregivers medically trained?",
+        "answer": "They are trained in basic vitals monitoring and emergency response, though they are not registered nurses."
+      },
+      {
+        "question": "Can I request a female caregiver?",
+        "answer": "Yes, you can request a male or female caregiver based on the patient's comfort and preference."
+      },
+      {
+        "question": "Are live-in caregivers available?",
+        "answer": "Yes, our live-in caregivers stay 24/7 to ensure round-the-clock companionship and safety."
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Excellent caregiver for our father with dementia. The personalized care plan and daily logs helped us stay informed. Significant improvement in his quality of life.",
+        "author": "Family of R.K."
+      },
+      {
+        "text": "Professional caregiver managed my mother's diabetes and medication perfectly. The coordination with our doctor was seamless. Highly recommended.",
+        "author": "Mrs. Mehta"
+      },
+      {
+        "text": "Palliative care service was compassionate and professional. The caregiver provided emotional support to our entire family during a difficult time.",
+        "author": "Mr. A. Singh"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Logs",
+        "description": "Detailed daily care logs with weekly medical summaries via email/SMS.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Emergency Escalation",
+        "description": "24/7 emergency workflow with immediate calls and ambulance support.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Progress Tracking",
+        "description": "Optional wearable integration for device-based health monitoring.",
+        "icon": "FaHeartbeat"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Insurance & Liability",
+        "description": "Comprehensive insurance coverage and professional liability protection.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Replacement SLA",
+        "description": "Guaranteed replacement and backup caregiver availability.",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "Training & Evaluation",
+        "description": "Continuous training programs and regular performance evaluations.",
+        "icon": "FaClipboardList"
+      }
+    ]
+  },
+  "domestic-helper-services-delhi-ncr": {
+    "id": "domestic-helper-services-delhi-ncr",
+    "seo": {
+      "title": "Domestic Helper Services in Delhi NCR | Trusted House Help & Maid Services",
+      "description": "Hire verified domestic helpers for cooking, cleaning, housekeeping, laundry and daily household support across Delhi NCR.",
+      "keywords": "domestic helper service, house helper service, maid service, housekeeping service, cook maid service, full time maid, part time maid, house help near me, domestic worker service, maid service delhi, house helper noida, cook maid gurgaon, housekeeping ghaziabad, domestic helper faridabad, household helper service, professional housekeeping, home support service, domestic worker agency, residential housekeeping",
+      "focusKeyword": "Domestic Helper Services Delhi NCR",
+      "ogTitle": "Trusted Domestic Helper Services | Housekeeping Support",
+      "ogDescription": "Verified domestic helpers for cleaning, cooking and household support across Delhi NCR.",
+      "h1": "Professional Domestic Helper Services in Delhi NCR",
+      "schemaTypes": [
+        "LocalBusiness",
+        "Service",
+        "FAQPage",
+        "Review",
+        "AggregateRating",
+        "Organization"
+      ]
+    },
+    "categoryId": "home-healthcare",
+    "title": "Domestic Helper Services",
+    "subtitle": "Reliable Household Help & Support",
+    "heroImage": "/Images/Services/domestic helper.webp",
+    "comprehensiveDescription": "Reliable household help — cleaning, cooking, laundry, and more. Trusted domestic helpers providing comprehensive home support services to make your daily life easier and more comfortable.",
+    "comprehensiveParagraphs": [
+      "Our reliable domestic helper services provide comprehensive household support including cleaning, cooking, laundry, and daily chores. Whether you need routine home help, specialized cooking, or temporary assistance for events, our trained helpers ensure your home runs smoothly.",
+      "From daily cleaning and housekeeping to cooking regular meals or special diets, laundry and ironing, deep cleaning, errand running, and elderly companion help (non-clinical), we provide flexible services tailored to your household needs."
+    ],
+    "features": [
+      {
+        "title": "Daily Cleaning",
+        "description": "Routine housekeeping.",
+        "icon": "FaBroom"
+      },
+      {
+        "title": "Cooking",
+        "description": "Regular meals & special diets.",
+        "icon": "FaUtensils"
+      },
+      {
+        "title": "Laundry & Ironing",
+        "description": "Washing and pressing.",
+        "icon": "FaTshirt"
+      },
+      {
+        "title": "Deep Cleaning",
+        "description": "Spring cleaning services.",
+        "icon": "FaBroom"
+      },
+      {
+        "title": "Errand Running",
+        "description": "Grocery & bill payments.",
+        "icon": "FaShoppingBag"
+      },
+      {
+        "title": "Elderly Companion",
+        "description": "Non-clinical support.",
+        "icon": "FaUserFriends"
+      },
+      {
+        "title": "Temporary Help",
+        "description": "Events & parties.",
+        "icon": "FaCalendarAlt"
+      },
+      {
+        "title": "Full-time Service",
+        "description": "Comprehensive household help.",
+        "icon": "FaHome"
+      }
+    ],
+    "staff": [
+      {
+        "title": "Background Checks",
+        "description": "Comprehensive background and reference checks for all helpers.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Skill Levels",
+        "description": "Helpers trained in cleaning, cooking, ironing, washing, and other household duties.",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "Training & Etiquette",
+        "description": "Language and workplace etiquette training for professional service.",
+        "icon": "FaUserTie"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Hourly Service",
+        "price": "Variable",
+        "duration": "Flexible timing",
+        "description": "",
+        "features": [
+          "Task-based pricing",
+          "Customized hours"
+        ]
+      },
+      {
+        "name": "Live-in Service",
+        "price": "Custom quote",
+        "duration": "24/7 service",
+        "description": "",
+        "features": [
+          "Monthly package",
+          "Round-the-clock help"
+        ]
+      },
+      {
+        "name": "Full-time Service",
+        "price": "Custom quote",
+        "duration": "Regular schedule",
+        "description": "",
+        "features": [
+          "Monthly billing",
+          "Set daily hours"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are domestic helpers background verified?",
+        "answer": "Yes, safety is our priority. Every helper undergoes strict identity and police verification checks."
+      },
+      {
+        "question": "Can I hire a helper for part-time work?",
+        "answer": "Yes, we offer flexible part-time maid services, whether you need someone for a few hours daily or weekly."
+      },
+      {
+        "question": "Do you provide cooking services?",
+        "answer": "Yes, we provide experienced cook maids who are proficient in preparing a wide variety of hygienic and healthy meals."
+      },
+      {
+        "question": "What happens if a helper is unavailable?",
+        "answer": "If your designated helper takes leave or falls ill, we provide a reliable, temporary replacement."
+      },
+      {
+        "question": "Can I request a female helper?",
+        "answer": "Yes, you can specifically request a female helper depending entirely on your household's comfort."
+      },
+      {
+        "question": "Do helpers perform deep cleaning?",
+        "answer": "Our standard house helpers manage daily mopping and dusting. For deep, intensive cleaning, we arrange specialized cleaning crews."
+      },
+      {
+        "question": "Are replacement services available?",
+        "answer": "Yes, if you are dissatisfied with the performance of the current helper, we will promptly coordinate a replacement."
+      },
+      {
+        "question": "Can I hire live-in domestic helpers?",
+        "answer": "Absolutely, we supply dedicated 24/7 live-in domestic helpers for comprehensive household management."
+      }
+    ],
+    "testimonials": [
+      {
+        "text": "Very punctual and trustworthy helper. Excellent cooking skills and maintains cleanliness. Highly recommended.",
+        "author": "Mrs. S. Mehta"
+      },
+      {
+        "text": "Reliable service with well-trained staff. The helper is respectful and follows household rules perfectly.",
+        "author": "Mr. R. Sharma"
+      },
+      {
+        "text": "Professional and efficient service. The helper handles all household tasks with care and attention to detail.",
+        "author": "Ms. A. Patel"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Contract Terms",
+        "description": "Clear probation period, notice period, and leave policy details.",
+        "icon": "FaFileContract"
+      },
+      {
+        "title": "Insurance Coverage",
+        "description": "Accident and liability coverage for helpers.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Payment Policies",
+        "description": "Clear payment guidelines and termination policies.",
+        "icon": "FaRupeeSign"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Maid + Cook Combo",
+        "description": "Combined cleaning and cooking service packages.",
+        "icon": "FaUtensils"
+      },
+      {
+        "title": "Monthly Deep Cleaning",
+        "description": "Add-on monthly deep cleaning services.",
+        "icon": "FaBroom"
+      },
+      {
+        "title": "Training Sessions",
+        "description": "Household-specific task training for helpers.",
+        "icon": "FaCertificate"
+      }
+    ]
+  },
+  "icu-setup-at-home-delhi-ncr": {
+    "id": "icu-setup-at-home-delhi-ncr",
+    "seo": {
+      "title": "ICU Setup at Home in Delhi NCR | Home ICU Services | Nova Growth",
+      "description": "Complete ICU setup at home with ventilator, ICU monitor, oxygen support, trained nurses and doctors. Available across Delhi NCR with rapid deployment.",
+      "keywords": "icu setup at home, home icu services, home intensive care, critical care at home, ventilator support at home, home critical care, icu nurse at home, hospital at home service, home intensive care service, critical patient care at home, advanced home healthcare, icu monitoring at home, icu setup at home delhi, home icu noida, icu care gurgaon",
+      "focusKeyword": "ICU Setup at Home Delhi NCR",
+      "ogTitle": "ICU Setup at Home | Critical Care Services Delhi NCR",
+      "ogDescription": "Professional ICU setup with equipment, nurses, doctors and 24/7 monitoring support.",
+      "h1": "ICU Setup at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Person"
+      ]
+    },
+    "categoryId": "home-healthcare",
+    "title": "ICU Setup at Home",
+    "subtitle": "Advanced Critical Care at Your Doorstep",
+    "heroImage": "/Images/Services/ICU-setup.webp",
+    "comprehensiveDescription": "Advanced critical care at your doorstep with expert medical support. Professional ICU setup services with all necessary medical equipment, trained staff, and 24/7 monitoring for patients requiring intensive care in the comfort of their home.",
+    "comprehensiveParagraphs": [
+      "Our ICU Setup at Home service brings advanced critical care directly to your doorstep, providing comprehensive medical support for patients who require intensive monitoring and care. We understand that being in a familiar environment can significantly improve patient recovery and comfort while reducing the emotional and financial stress of prolonged hospital stays.",
+      "We provide state-of-the-art medical equipment including ventilators, multipara monitors, infusion pumps, oxygen concentrators, and all essential ICU equipment. Our setup includes everything needed to create a safe, sterile, and fully functional intensive care environment in your home, ensuring your loved one receives hospital-grade care with the comfort of home.",
+      "Our team of highly trained ICU nurses and doctors work round-the-clock to monitor vital signs, manage medications, and respond to any medical emergencies. With 24/7 monitoring, cost efficiency compared to hospital stays, reduced infection risk, and the emotional comfort of being at home, our service provides the best of both worlds – advanced medical care in a familiar, comforting environment."
+    ],
+    "features": [
+      {
+        "title": "24×7 Medical Monitoring",
+        "description": "Continuous observation of vital signs.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Trained ICU Nurses & Doctors",
+        "description": "Expert medical professionals on standby.",
+        "icon": "FaUserMd"
+      },
+      {
+        "title": "Ventilator & Oxygen Support",
+        "description": "Advanced respiratory care equipment.",
+        "icon": "FaLungs"
+      },
+      {
+        "title": "Home Setup in 6–12 Hours",
+        "description": "Rapid deployment of ICU environment.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Emergency Assistance Available",
+        "description": "Immediate response for critical situations.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Infection Control & Safety",
+        "description": "Strict protocols for sterile environments.",
+        "icon": "FaShieldAlt"
+      }
+    ],
+    "equipments": [
+      {
+        "name": "Hospital Bed (Adjustable)",
+        "icon": "FaBed"
+      },
+      {
+        "name": "Multipara Monitor",
+        "icon": "FaStethoscope"
+      },
+      {
+        "name": "Ventilator (if required)",
+        "icon": "FaLungs"
+      },
+      {
+        "name": "Suction Machine",
+        "icon": "FaSyringe"
+      },
+      {
+        "name": "Oxygen Cylinder/Concentrator",
+        "icon": "FaLungs"
+      },
+      {
+        "name": "Infusion Pumps",
+        "icon": "FaSyringe"
+      },
+      {
+        "name": "Nebulizer",
+        "icon": "FaNotesMedical"
+      },
+      {
+        "name": "PPE & Hygiene Kits",
+        "icon": "FaShieldAlt"
+      }
+    ],
+    "staff": [
+      {
+        "title": "Doctor Visits",
+        "description": "Regular doctor visits and teleconsultation services for comprehensive medical supervision and treatment planning.",
+        "icon": "FaUserMd"
+      },
+      {
+        "title": "ICU-Trained Nurses",
+        "description": "Expert ICU-trained nurses available for 12/24-hour shifts, providing round-the-clock monitoring and care.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Attendant/Physiotherapist",
+        "description": "Optional attendant or physiotherapist services for additional support and rehabilitation as needed.",
+        "icon": "FaHandsHelping"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Basic ICU Setup",
+        "price": "₹4,999/day",
+        "duration": "24 hrs",
+        "description": "",
+        "features": [
+          "Bed",
+          "Monitor",
+          "Oxygen"
+        ]
+      },
+      {
+        "name": "Advanced ICU Setup",
+        "price": "₹8,999/day",
+        "duration": "24 hrs",
+        "description": "(Most Popular)",
+        "features": [
+          "Ventilator",
+          "Nurse",
+          "Doctor Visit"
+        ]
+      },
+      {
+        "name": "Premium Care",
+        "price": "₹11,999/day",
+        "duration": "24 hrs",
+        "description": "",
+        "features": [
+          "Full ICU Equipment",
+          "24×7 Doctor",
+          "Complete Support"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What equipment is included in a home ICU setup?",
+        "answer": "Our complete setup includes an ICU monitor, an advanced mechanical ventilator or BiPAP/CPAP, a fully adjustable hospital bed with mattress, oxygen supply, suction machines, and infusion pumps."
+      },
+      {
+        "question": "How quickly can ICU setup be arranged?",
+        "answer": "We understand the urgency and can completely deploy and set up the ICU at your home within 4 to 6 hours across Delhi NCR."
+      },
+      {
+        "question": "Are ICU nurses included?",
+        "answer": "Yes, we provide highly trained, registered ICU nurses who offer 24/7 round-the-clock monitoring and critical care."
+      },
+      {
+        "question": "Is ventilator support available?",
+        "answer": "Absolutely, we provide advanced ICU-grade ventilators along with respiratory therapists to manage the settings."
+      },
+      {
+        "question": "Can doctors visit regularly?",
+        "answer": "Yes, we arrange regular scheduled visits and on-call consultations by specialized ICU doctors and intensivists."
+      },
+      {
+        "question": "What conditions require ICU setup at home?",
+        "answer": "It is required for patients suffering from severe neurological conditions, end-stage respiratory failure, post-surgical critical recovery, or palliative care."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "physiotherapist-at-home-delhi-ncr": {
+    "id": "physiotherapist-at-home-delhi-ncr",
+    "seo": {
+      "title": "Physiotherapist at Home in Delhi NCR | Home Physiotherapy Services",
+      "description": "Certified physiotherapists for pain management, rehabilitation, stroke recovery and post-surgery therapy at home.",
+      "keywords": "physiotherapist at home, home physiotherapy, physio at home, physical therapy at home, stroke rehabilitation, back pain physiotherapy, sports injury physiotherapy, post surgery rehabilitation, home rehabilitation service, licensed physiotherapist, pain management therapy, physical recovery treatment, physiotherapist at home delhi, physio near me",
+      "focusKeyword": "Physiotherapist at Home Delhi NCR",
+      "ogTitle": "Home Physiotherapy Services | Expert Physiotherapists Delhi NCR",
+      "ogDescription": "Personalized physiotherapy sessions at home for recovery, mobility and pain relief.",
+      "h1": "Physiotherapist at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Person"
+      ]
+    },
+    "categoryId": "home-healthcare",
+    "title": "Physiotherapist at Home",
+    "subtitle": "Personalized Physical Therapy & Rehabilitation",
+    "heroImage": "/Images/Services/physiotherapist.webp",
+    "comprehensiveDescription": "Personalized physical therapy and rehabilitation in the comfort of home. Licensed physiotherapists providing expert treatment, exercise programs, pain management, and recovery support for patients recovering from injuries, surgeries, or chronic conditions.",
+    "comprehensiveParagraphs": [
+      "Our licensed physiotherapists provide personalized physical therapy and rehabilitation services in the comfort of your home. Our services focus on pain management, post-operative rehabilitation, stroke recovery, and mobility improvement through customized exercise programs and hands-on therapy.",
+      "With one-on-one sessions, personalized exercise plans, faster recovery times, and fewer hospital visits, our home physiotherapy services offer convenience and effectiveness. Our therapists work closely with patients to develop tailored treatment plans that address specific needs and goals."
+    ],
+    "features": [
+      {
+        "title": "Post-Surgical Rehab",
+        "description": "Recovery after surgeries.",
+        "icon": "FaWalking"
+      },
+      {
+        "title": "Orthopedic Rehab",
+        "description": "Knee, hip, shoulder therapy.",
+        "icon": "FaUserInjured"
+      },
+      {
+        "title": "Neurological Rehab",
+        "description": "Stroke, Parkinson’s care.",
+        "icon": "FaBrain"
+      },
+      {
+        "title": "Pain Management",
+        "description": "Posture correction & pain relief.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Geriatric Programs",
+        "description": "Mobility for elderly.",
+        "icon": "FaHandsHelping"
+      },
+      {
+        "title": "Sports Injury",
+        "description": "Athletic recovery programs.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Exercise Programs",
+        "description": "Home exercise guidance.",
+        "icon": "FaWalking"
+      },
+      {
+        "title": "Equipment Guidance",
+        "description": "Assistive device training.",
+        "icon": "FaWheelchair"
+      }
+    ],
+    "staff": [
+      {
+        "title": "Licensed Professionals",
+        "description": "All therapists hold valid degrees and license numbers with recognized certifications.",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "Experienced Staff",
+        "description": "Years of experience with specializations in orthopedic, neurological, and sports therapy.",
+        "icon": "FaUserMd"
+      },
+      {
+        "title": "Gender Preference",
+        "description": "Option for female physiotherapist available on request for patient comfort.",
+        "icon": "FaUserNurse"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Single Session",
+        "price": "From ₹800",
+        "duration": "1 Session",
+        "description": "30 min: ₹800 | 45 min: ₹1,100 | 60 min: ₹1,400",
+        "features": [
+          "Initial assessment",
+          "Tailored exercises"
+        ]
+      },
+      {
+        "name": "1-Week Starter",
+        "price": "From ₹3,500",
+        "duration": "5 Sessions (12% Off)",
+        "description": "30 min: ₹3,500 | 45 min: ₹4,800 | 60 min: ₹6,200",
+        "features": [
+          "Progress notes",
+          "Follow-up care plan"
+        ]
+      },
+      {
+        "name": "Monthly Plan",
+        "price": "From ₹12,000",
+        "duration": "20 Sessions",
+        "description": "30 min: ₹12,000 | 45 min: ₹16,500 | 60 min: ₹21,000",
+        "features": [
+          "Complete recovery",
+          "Equipment guidance"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Post-op patients"
+      },
+      {
+        "title": "Athletes"
+      },
+      {
+        "title": "Elderly with mobility issues"
+      },
+      {
+        "title": "Chronic pain sufferers"
+      },
+      {
+        "title": "Stroke survivors"
+      },
+      {
+        "title": "Parkinson’s patients"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many physiotherapy sessions are needed?",
+        "answer": "The number of sessions depends strictly on the patient's condition. The physiotherapist will assess the patient during the first visit and recommend a customized recovery plan."
+      },
+      {
+        "question": "Do physiotherapists bring equipment?",
+        "answer": "Yes, our certified physiotherapists bring portable modalities like TENS, IFT, ultrasound machines, and resistance bands based on treatment needs."
+      },
+      {
+        "question": "Is physiotherapy useful after surgery?",
+        "answer": "Absolutely, post-operative physiotherapy is highly critical for restoring joint mobility, muscle strength, and preventing stiffness after surgeries like knee replacement."
+      },
+      {
+        "question": "Can physiotherapy help stroke patients?",
+        "answer": "Yes, neuro-physiotherapy focuses on retraining the brain and muscles, vastly improving balance, coordination, and independence for stroke survivors."
+      },
+      {
+        "question": "What conditions do physiotherapists treat?",
+        "answer": "They effectively treat back pain, cervical spondylosis, arthritis, sports injuries, neurological disorders, and orthopedic conditions."
+      },
+      {
+        "question": "Are home visits available daily?",
+        "answer": "Yes, we schedule visits daily, on alternate days, or weekly as per the personalized treatment plan."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "bipap-cpap-ventilator": {
+    "id": "bipap-cpap-ventilator",
+    "categoryId": "medical-equipments",
+    "title": "BiPAP/CPAP/Ventilator Rental",
+    "subtitle": "Advanced Respiratory Support Equipment",
+    "heroImage": "/Images/Services/BipapCpapVentilator.webp",
+    "comprehensiveDescription": "High-quality BiPAP, CPAP, and Ventilator machines available for rent with expert setup, training, and continuous support for patients requiring breathing assistance at home.",
+    "comprehensiveParagraphs": [
+      "At Nova Growth Health Care, we provide advanced BiPAP, CPAP, and Ventilator equipment on rent for patients requiring respiratory support. Our hospital-grade machines are ideal for sleep apnea treatment, respiratory disorders, and critical care needs. All equipment comes with professional setup, training, and 24/7 technical support.",
+      "Whether you need a CPAP machine for sleep apnea, BiPAP for respiratory support, or a ventilator for critical care, we offer flexible rental options with complete accessories, mask fitting, and ongoing maintenance support. Our trained technicians ensure proper setup and provide comprehensive training for safe home use."
+    ],
+    "features": [
+      {
+        "title": "Hospital-Grade",
+        "description": "Certified medical devices with proper maintenance.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Setup & Training",
+        "description": "Expert setup, mask fitting, and comprehensive training.",
+        "icon": "FaUserMd"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock technical assistance.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Home Delivery",
+        "description": "Convenient home delivery and setup.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Maintenance",
+        "description": "Regular servicing and filter replacement included.",
+        "icon": "FaWrench"
+      },
+      {
+        "title": "Safety Certified",
+        "description": "All equipment is sanitized and safety tested.",
+        "icon": "FaCertificate"
+      }
+    ],
+    "pricingTitle": "Available Machines",
+    "pricing": [
+      {
+        "name": "CPAP Machine",
+        "price": "Rental",
+        "duration": "Monthly/Weekly",
+        "description": "Continuous Positive Airway Pressure for sleep apnea treatment. Suitable for: Sleep apnea, snoring.",
+        "features": [
+          "Auto-adjusting pressure",
+          "Humidification",
+          "Sleep tracking",
+          "Quiet operation"
+        ]
+      },
+      {
+        "name": "BiPAP Machine",
+        "price": "Rental",
+        "duration": "Monthly/Weekly",
+        "description": "Bilevel Positive Airway Pressure for respiratory support. Suitable for: COPD, respiratory failure.",
+        "features": [
+          "Dual pressure settings",
+          "Advanced modes",
+          "Oxygen port",
+          "Comfort features"
+        ]
+      },
+      {
+        "name": "Ventilator",
+        "price": "Rental",
+        "duration": "Monthly/Weekly",
+        "description": "Advanced mechanical ventilation for critical care. Suitable for: Critical care, long-term ventilation.",
+        "features": [
+          "Multiple ventilation modes",
+          "Alarm systems",
+          "Battery backup",
+          "ICU-grade"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Sleep Apnea Patients"
+      },
+      {
+        "title": "COPD Patients"
+      },
+      {
+        "title": "Respiratory Failure"
+      },
+      {
+        "title": "Post-Surgery Recovery"
+      },
+      {
+        "title": "Neuromuscular Disorders"
+      },
+      {
+        "title": "Chronic Respiratory Conditions"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between CPAP, BiPAP, and Ventilator?",
+        "answer": "CPAP provides continuous single pressure, BiPAP provides two levels of pressure (inhale/exhale), and Ventilators provide advanced mechanical breathing support and rate control."
+      },
+      {
+        "question": "Do I need a sleep study before renting?",
+        "answer": "Yes, typically a sleep study (Polysomnography) or a doctor's prescription is required to determine the correct machine type and pressure settings."
+      },
+      {
+        "question": "Is mask fitting included?",
+        "answer": "Yes, our technicians ensure proper mask sizing and fitting during setup to prevent leaks and maximize comfort."
+      },
+      {
+        "question": "How often do I need to clean the equipment?",
+        "answer": "Masks and tubing should be washed daily with mild soap and warm water, while machine filters should be checked weekly and replaced as needed."
+      },
+      {
+        "question": "Can I travel with the machine?",
+        "answer": "Yes, most CPAP and BiPAP machines are compact and travel-friendly. We can guide you on travel preparation and battery options."
+      },
+      {
+        "question": "What if the machine doesn't work for me?",
+        "answer": "Our technicians provide continuous support. If issues persist, we coordinate with your doctor to adjust settings or swap the equipment or mask type."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Regular Maintenance",
+        "description": "Periodic checks of equipment function.",
+        "icon": "FaWrench"
+      },
+      {
+        "title": "Filter Replacement",
+        "description": "Timely replacement of air filters.",
+        "icon": "FaLeaf"
+      },
+      {
+        "title": "Usage Reports",
+        "description": "Data compliance reports for doctors.",
+        "icon": "FaClipboardList"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Sanitized Equipment",
+        "description": "Strict cleaning and sterilization protocols.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Trained Techs",
+        "description": "Setup handled by certified respiratory technicians.",
+        "icon": "FaUserMd"
+      },
+      {
+        "title": "Power Backup",
+        "description": "Guidance on UPS/battery solutions for safety.",
+        "icon": "FaBatteryFull"
+      }
+    ]
+  },
+  "dvt-pump-rental-delhi-ncr": {
+    "id": "dvt-pump-rental-delhi-ncr",
+    "seo": {
+      "title": "DVT Pump Rental in Delhi NCR | Compression Therapy Equipment",
+      "description": "Rent DVT pumps for blood circulation therapy and clot prevention. Professional setup and support available across Delhi NCR.",
+      "keywords": "dvt pump rental, compression therapy pump, dvt machine rental, leg compression pump, deep vein thrombosis prevention, post surgery dvt pump, circulation therapy machine, compression therapy equipment, dvt prevention equipment, compression therapy device, medical circulation support, home dvt therapy, dvt pump rental delhi, compression therapy noida",
+      "focusKeyword": "DVT Pump Rental Delhi NCR",
+      "ogTitle": "DVT Pump Rental | Blood Circulation Therapy at Home",
+      "ogDescription": "Advanced DVT pumps for post-surgery recovery and circulation support available on rent.",
+      "h1": "DVT Pump Rental in Delhi NCR",
+      "imageAlt": "dvt pump rental delhi compression therapy device blood circulation machine post surgery dvt support leg compression equipment",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating"
+      ]
+    },
+    "categoryId": "medical-equipments",
+    "title": "DVT Pump Rental",
+    "subtitle": "Deep Vein Thrombosis Prevention Pumps",
+    "heroImage": "/Images/Services/DVT Pump.webp",
+    "comprehensiveDescription": "Sequential compression devices that improve blood circulation, prevent blood clots, and reduce swelling in legs. Essential for post-surgery care, bedridden patients, and DVT prevention at home.",
+    "comprehensiveParagraphs": [
+      "Sequential compression devices that improve blood circulation, prevent blood clots, and reduce swelling in legs. Essential for post-surgery care, bedridden patients, and DVT prevention at home.",
+      "Rated as the best wheelchair rental service in Delhi NCR, we ensure affordable medical equipment rental near me with same-day healthcare equipment delivery.",
+      "As a trusted home healthcare provider, our medical equipment rental for patient recovery ensures 24/7 healthcare support in Delhi NCR, covering Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad."
+    ],
+    "features": [
+      {
+        "title": "Prevents Blood Clots",
+        "description": "Sequential compression therapy improves circulation and prevents deep vein thrombosis.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Medical-Grade Equipment",
+        "description": "Hospital-quality DVT pumps with adjustable pressure settings and safety features.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Free Home Delivery",
+        "description": "Our technician delivers, sets up, and provides training on pump operation.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock assistance for any technical issues or questions.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Maintenance Included",
+        "description": "Regular cleaning, servicing, and repairs included in rental package.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Reduces Swelling",
+        "description": "Effective compression therapy reduces leg swelling and improves comfort.",
+        "icon": "FaWalking"
+      }
+    ],
+    "pricingTitle": "Available DVT Pump Types",
+    "pricing": [
+      {
+        "name": "Single Leg DVT Pump",
+        "price": "₹1,500/week",
+        "duration": "₹5,000/month",
+        "description": "",
+        "features": [
+          "Single leg compression",
+          "Adjustable pressure",
+          "Portable design",
+          "Easy to use"
+        ]
+      },
+      {
+        "name": "Dual Leg DVT Pump",
+        "price": "₹2,500/week",
+        "duration": "₹8,000/month",
+        "description": "",
+        "features": [
+          "Both legs simultaneously",
+          "Independent controls",
+          "Sequential compression",
+          "Advanced settings"
+        ]
+      },
+      {
+        "name": "Advanced DVT Pump",
+        "price": "₹3,500/week",
+        "duration": "₹12,000/month",
+        "description": "",
+        "features": [
+          "Multi-chamber compression",
+          "Programmable cycles",
+          "Memory function",
+          "LCD display",
+          "Auto shut-off"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Post-surgery patients"
+      },
+      {
+        "title": "Bedridden patients"
+      },
+      {
+        "title": "Long-term immobility"
+      },
+      {
+        "title": "Orthopedic surgery recovery"
+      },
+      {
+        "title": "Spinal surgery recovery"
+      },
+      {
+        "title": "Stroke patients"
+      },
+      {
+        "title": "Elderly with limited mobility"
+      },
+      {
+        "title": "DVT prevention"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or fill the form with your DVT pump requirements and patient condition.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the pump, set up, adjust settings, and provide training.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Continuous technical support and regular maintenance throughout rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a DVT pump?",
+        "answer": "A DVT (Deep Vein Thrombosis) pump is a pneumatic compression device designed to prevent blood clots in the deep veins of the legs."
+      },
+      {
+        "question": "How does compression therapy work?",
+        "answer": "It uses air to inflate specialized sleeves wrapped around the legs, gently squeezing to improve blood flow and mimic the natural walking action."
+      },
+      {
+        "question": "Who needs a DVT pump?",
+        "answer": "Patients who are bedridden, paralyzed, or recovering from major surgeries and cannot move their legs frequently need a DVT pump."
+      },
+      {
+        "question": "Can I use it after surgery?",
+        "answer": "Yes, doctors highly recommend DVT pumps post-surgery to prevent life-threatening blood clots during recovery."
+      },
+      {
+        "question": "Is it safe for elderly patients?",
+        "answer": "Yes, it is entirely safe and very beneficial for elderly patients with poor circulation, provided it is prescribed by a doctor."
+      },
+      {
+        "question": "How long should it be used daily?",
+        "answer": "Usage duration depends on your doctor's prescription. Many patients use it continuously while resting in bed."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "hospital-bed-rental-delhi-ncr": {
+    "id": "hospital-bed-rental-delhi-ncr",
+    "categoryId": "medical-equipment",
+    "title": "Hospital Bed on Rent",
+    "subtitle": "Comfortable and Adjustable Hospital Beds for Home Care",
+    "seo": {
+      "title": "Hospital Bed Rental in Delhi NCR | Electric & Manual Beds on Rent | Nova Growth",
+      "description": "Rent hospital beds in Delhi NCR with same-day delivery. Electric, manual, ICU, and Fowler beds available for home care. 24/7 support and affordable rental plans.",
+      "keywords": "hospital bed rental, hospital bed on rent, hospital bed rental delhi, hospital bed rental delhi ncr, medical bed rental, icu bed rental, electric hospital bed rent, patient bed on rent, fowler bed rental, home hospital bed",
+      "ogTitle": "Hospital Bed Rental in Delhi NCR | Home Healthcare Equipment",
+      "ogDescription": "Affordable hospital bed rentals with delivery, installation and support. Available across Delhi NCR.",
+      "h1": "Hospital Bed Rental in Delhi NCR",
+      "imageAlt": "Hospital bed rental Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness"
+      ]
+    },
+    "heroImage": "/Images/Services/Hospital Bed.webp",
+    "comprehensiveDescription": "Professional-grade adjustable hospital beds with side rails, multiple positions, and patient comfort features. Electrically operated beds perfect for post-surgery recovery, long-term care, and bedridden patients at home.",
+    "features": [
+      {
+        "title": "Adjustable Positions",
+        "description": "Electrically operated beds with multiple positions for sitting, sleeping, and eating comfort.",
+        "icon": "FaBed"
+      },
+      {
+        "title": "Safety Features",
+        "description": "Side rails, locking wheels, and emergency stop buttons for patient safety.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Free Delivery & Setup",
+        "description": "Our team delivers, assembles, and provides training on bed operation.",
+        "icon": "FaHandsHelping"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock assistance for any technical issues or questions.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Maintenance Included",
+        "description": "Regular cleaning, servicing, and repairs included in rental package.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Pressure Relief Mattresses",
+        "description": "Specialized mattresses to prevent bedsores and ensure patient comfort.",
+        "icon": "FaUserNurse"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "Manual Hospital Bed",
+        "price": "₹1,500/week",
+        "duration": "₹5,000/month",
+        "description": "",
+        "features": [
+          "Manual height adjustment",
+          "Side rails",
+          "Locking wheels",
+          "Standard mattress"
+        ]
+      },
+      {
+        "name": "Electric Hospital Bed",
+        "price": "₹2,500/week",
+        "duration": "₹8,000/month",
+        "description": "",
+        "features": [
+          "Electric position control",
+          "Head & foot adjustment",
+          "Height adjustment",
+          "Side rails",
+          "Pressure relief mattress"
+        ]
+      },
+      {
+        "name": "Premium ICU Bed",
+        "price": "₹4,000/week",
+        "duration": "₹14,000/month",
+        "description": "",
+        "features": [
+          "Full electric control",
+          "Trendelenburg position",
+          "Cardiac chair position",
+          "Advanced side rails",
+          "Anti-bedsore mattress",
+          "IV pole holder"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Post-surgery recovery"
+      },
+      {
+        "title": "Long-term bedridden patients"
+      },
+      {
+        "title": "Elderly care at home"
+      },
+      {
+        "title": "Mobility-impaired patients"
+      },
+      {
+        "title": "Post-ICU care"
+      },
+      {
+        "title": "Chronic illness patients"
+      },
+      {
+        "title": "Palliative care"
+      },
+      {
+        "title": "Rehabilitation"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or fill the form with your bed requirements and patient condition.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the bed, assemble it, adjust settings, and provide training.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Continuous technical support and regular maintenance throughout rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What types of hospital beds are available on rent?",
+        "answer": "We provide Electric, Manual, ICU, and Fowler beds depending on patient needs."
+      },
+      {
+        "question": "How quickly can you deliver a hospital bed?",
+        "answer": "We offer same-day delivery across Delhi NCR."
+      },
+      {
+        "question": "Is installation included?",
+        "answer": "Yes, complete installation and demonstration are included with every delivery."
+      },
+      {
+        "question": "Can I rent a hospital bed for one week?",
+        "answer": "Yes, we offer flexible rental plans including weekly and monthly options."
+      },
+      {
+        "question": "Do you provide mattresses with the bed?",
+        "answer": "Yes, a medical-grade waterproof mattress is provided with every bed rental."
+      },
+      {
+        "question": "What areas in Delhi NCR do you cover?",
+        "answer": "We deliver to all areas across Delhi, Noida, Gurugram, Faridabad, and Ghaziabad."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "oxygen-concentrator-rental-delhi-ncr": {
+    "id": "oxygen-concentrator-rental-delhi-ncr",
+    "categoryId": "medical-equipments",
+    "title": "Oxygen Concentrator Rental",
+    "subtitle": "Affordable & Reliable Home Oxygen Support",
+    "seo": {
+      "title": "Oxygen Concentrator Rental in Delhi NCR | Home Oxygen Support | Nova Growth",
+      "description": "Rent oxygen concentrators in Delhi NCR with same-day delivery and setup. Reliable oxygen therapy equipment for home care patients.",
+      "keywords": "oxygen concentrator rental, oxygen concentrator on rent, oxygen machine rental, oxygen support at home, 5 litre oxygen concentrator, 10 litre oxygen concentrator, home oxygen therapy, oxygen rental near me, oxygen concentrator rental service, portable oxygen concentrator rental, home oxygen support, oxygen therapy equipment",
+      "ogTitle": "Oxygen Concentrator Rental | Same Day Delivery Delhi NCR",
+      "ogDescription": "Medical-grade oxygen concentrators available for rent with professional setup and support.",
+      "schemaTypes": [
+        "MedicalDevice",
+        "MedicalBusiness",
+        "FAQPage"
+      ],
+      "h1": "Oxygen Concentrator Rental in Delhi NCR"
+    },
+    "heroImage": "/Images/Services/Oxygen Concentrator.webp",
+    "comprehensiveDescription": "At Nova Growth Health Care, we provide high-quality oxygen concentrators on rent for patients who need continuous oxygen therapy at home. Our devices are trusted, energy-efficient, and designed to deliver stable oxygen flow for COPD, asthma, pneumonia, post-COVID recovery, elderly patients, and other respiratory conditions.",
+    "comprehensiveParagraphs": [
+      "At Nova Growth Health Care, we provide high-quality oxygen concentrators on rent for patients who need continuous oxygen therapy at home. Our devices are trusted, energy-efficient, and designed to deliver stable oxygen flow for COPD, asthma, pneumonia, post-COVID recovery, elderly patients, and other respiratory conditions.",
+      null,
+      "Recognized as the best home healthcare service in delhi ncr, we provide professional healthcare staff and hospital level care at home. As a trusted patient care provider, we ensure same day healthcare assistance.",
+      "We offer 24/7 medical support at home for all our patients across Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Call for Immediate Assistance and get a Free Consultation today."
+    ],
+    "features": [
+      {
+        "title": "Medical-Grade Oxygen Supply",
+        "description": "Get consistent oxygen purity with advanced filtration technology designed for long-duration usage.",
+        "icon": "FaLungs"
+      },
+      {
+        "title": "Affordable Monthly / Weekly Rentals",
+        "description": "Lowest rental cost in the market with no hidden charges.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Free Home Delivery & Setup",
+        "description": "Our technician delivers the machine, sets it up, and explains usage instructions.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "24/7 Technical Support",
+        "description": "Facing any issue? Our support team is available round the clock.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Maintenance & Service Included",
+        "description": "We handle all repairs, filter cleaning, and servicing so you don't have to worry.",
+        "icon": "FaWrench"
+      },
+      {
+        "title": "Lightweight & Energy Efficient",
+        "description": "Easy to move, quiet operation, and safe for continuous usage.",
+        "icon": "FaLeaf"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "5 LPM Oxygen Concentrator",
+        "price": "₹1,500/week",
+        "duration": "₹4,500/month",
+        "description": "",
+        "features": [
+          "Suitable for most home-care patients",
+          "Low noise operation",
+          "High oxygen purity up to 93%"
+        ]
+      },
+      {
+        "name": "10 LPM Oxygen Concentrator",
+        "price": "₹2,500/week",
+        "duration": "₹7,500/month",
+        "description": "",
+        "features": [
+          "Ideal for high-flow patients",
+          "Dual output option",
+          "Powerful compressor"
+        ]
+      },
+      {
+        "name": "Portable Oxygen Concentrator",
+        "price": "Starts from ₹1,000/day",
+        "duration": "Contact for monthly rates",
+        "description": "",
+        "features": [
+          "Battery operated",
+          "Best for travel",
+          "Lightweight"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "COPD"
+      },
+      {
+        "title": "Post-COVID Lung Recovery"
+      },
+      {
+        "title": "Asthma"
+      },
+      {
+        "title": "Pneumonia"
+      },
+      {
+        "title": "Chronic Bronchitis"
+      },
+      {
+        "title": "Heart-related breathing issues"
+      },
+      {
+        "title": "Sleep apnea (doctor recommended)"
+      },
+      {
+        "title": "Elderly patients with low oxygen saturation"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or WhatsApp with your requirement & oxygen flow rate prescribed by the doctor.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the oxygen concentrator to your home and install it.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Regular Service & Support",
+        "description": "We provide 24/7 assistance and free maintenance throughout the rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What oxygen concentrator sizes are available?",
+        "answer": "We provide 5-litre and 10-litre oxygen concentrators based on your medical requirement."
+      },
+      {
+        "question": "Can I use an oxygen concentrator 24/7?",
+        "answer": "Yes, our concentrators are designed for continuous operation but should be used as prescribed by a doctor."
+      },
+      {
+        "question": "Is setup included?",
+        "answer": "Yes, our technicians will deliver, set up the machine, and provide complete training."
+      },
+      {
+        "question": "What happens during a power cut?",
+        "answer": "Concentrators require electricity. We recommend keeping an oxygen cylinder as backup during power outages."
+      },
+      {
+        "question": "How soon can delivery be arranged?",
+        "answer": "We prioritize oxygen deliveries and provide same-day setup in Delhi NCR."
+      },
+      {
+        "question": "Is maintenance included?",
+        "answer": "Yes, all regular maintenance and filter cleaning are included in the rental plan."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "oxygen-cylinder-rental-delhi-ncr": {
+    "id": "oxygen-cylinder-rental-delhi-ncr",
+    "categoryId": "medical-equipments",
+    "title": "Oxygen Cylinder Rental",
+    "subtitle": "Fast & Reliable Medical Oxygen Delivery",
+    "seo": {
+      "title": "Oxygen Cylinder Rental in Delhi NCR | Medical Oxygen at Home",
+      "description": "Medical oxygen cylinders available for rent in Delhi NCR. Fast delivery, refill support and emergency oxygen services available 24/7.",
+      "keywords": "oxygen cylinder rental, medical oxygen cylinder, oxygen cylinder on rent, oxygen cylinder near me, portable oxygen cylinder, emergency oxygen cylinder, oxygen refill service, oxygen support at home, oxygen cylinder rental service, medical oxygen supply, home oxygen cylinder, portable oxygen support",
+      "ogTitle": "Oxygen Cylinder Rental | Emergency Oxygen Support",
+      "ogDescription": "Rent medical oxygen cylinders with quick delivery and professional support.",
+      "schemaTypes": [
+        "MedicalDevice",
+        "MedicalBusiness",
+        "FAQPage"
+      ],
+      "h1": "Oxygen Cylinder Rental in Delhi NCR"
+    },
+    "heroImage": "/Images/Services/Oxygen Cylinder.webp",
+    "comprehensiveDescription": "Fast & Reliable Medical Oxygen Delivery to Your Doorstep. Emergency & Scheduled Deliveries Available. High-quality medical-grade oxygen cylinders available for rent with quick delivery, safe handling, and 24/7 support for patients requiring oxygen therapy at home.",
+    "comprehensiveParagraphs": [
+      "At Nova Growth Health Care, we provide medical-grade oxygen cylinders on rent with fast delivery and reliable refill services. Our cylinders are certified, properly maintained, and delivered to your doorstep with all necessary accessories. Whether you need emergency oxygen or scheduled delivery, we ensure timely service for COPD, post-COVID recovery, asthma, and other respiratory conditions.",
+      "We offer various cylinder sizes (2L portable to jumbo cylinders) with flexible rental durations from daily to long-term. Our service includes free delivery, setup assistance, and 24/7 refill support to ensure uninterrupted oxygen supply for your loved ones."
+    ],
+    "features": [
+      {
+        "title": "Fast Delivery (1–2 Hours)",
+        "description": "Emergency delivery available within 1–2 hours. Scheduled deliveries as per your convenience.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Medical-Grade Oxygen",
+        "description": "Certified medical-grade oxygen cylinders with proper maintenance and safety checks.",
+        "icon": "FaLungs"
+      },
+      {
+        "title": "24/7 Refill Support",
+        "description": "Round-the-clock refill service to ensure uninterrupted oxygen supply.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Complete Setup Included",
+        "description": "Free delivery, installation, flow meter, and all necessary accessories setup.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Safety Certified",
+        "description": "All cylinders are safety tested and certified for medical use.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Flexible Rental Options",
+        "description": "Daily, weekly, monthly, and long-term rental options available.",
+        "icon": "FaCalendarAlt"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "2L Portable",
+        "price": "Lightweight",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable For: Travel, emergencies"
+        ]
+      },
+      {
+        "name": "5L Medium",
+        "price": "Medium capacity",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable For: Home use, moderate flow"
+        ]
+      },
+      {
+        "name": "10L Standard",
+        "price": "Standard home use",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable For: Standard home therapy"
+        ]
+      },
+      {
+        "name": "20L Large",
+        "price": "Large capacity",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable For: High flow, extended use"
+        ]
+      },
+      {
+        "name": "Jumbo Cylinder",
+        "price": "Maximum capacity",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable For: Long-term, continuous use"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "COPD"
+      },
+      {
+        "title": "Post-COVID Lung Recovery"
+      },
+      {
+        "title": "Asthma"
+      },
+      {
+        "title": "Pneumonia"
+      },
+      {
+        "title": "Chronic Bronchitis"
+      },
+      {
+        "title": "Heart-related breathing issues"
+      },
+      {
+        "title": "Sleep apnea (doctor recommended)"
+      },
+      {
+        "title": "Elderly patients with low oxygen saturation"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or WhatsApp with your requirement & oxygen flow rate prescribed by the doctor.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the oxygen cylinder to your home and install it.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Regular Service & Support",
+        "description": "We provide 24/7 assistance and free maintenance throughout the rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How long does one oxygen cylinder last?",
+        "answer": "It depends on the cylinder size and flow rate prescribed. A B-type cylinder at 2L/min lasts around 10-12 hours."
+      },
+      {
+        "question": "Do you provide oxygen cylinder refills?",
+        "answer": "Yes, we provide 24/7 refill services with doorstep pickup and drop."
+      },
+      {
+        "question": "Is home delivery available?",
+        "answer": "Yes, we provide fast delivery across Delhi NCR."
+      },
+      {
+        "question": "Which cylinder size should I choose?",
+        "answer": "We will guide you based on your doctor's prescription (portable small cylinders vs large D-type)."
+      },
+      {
+        "question": "Can I rent a cylinder for emergency use?",
+        "answer": "Yes, many families keep a cylinder as a backup for emergencies or power cuts."
+      },
+      {
+        "question": "Is a prescription required?",
+        "answer": "Yes, a valid doctor's prescription is required for medical oxygen."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "bipap-cpap-ventilator-rental-delhi-ncr": {
+    "id": "bipap-cpap-ventilator-rental-delhi-ncr",
+    "categoryId": "medical-equipments",
+    "title": "BiPAP/CPAP/Ventilator Rental",
+    "subtitle": "Advanced Respiratory Support Equipment",
+    "seo": {
+      "title": "BiPAP, CPAP & Ventilator Rental in Delhi NCR | Respiratory Support Equipment",
+      "description": "Rent BiPAP, CPAP and ventilators in Delhi NCR with professional setup, mask fitting and 24/7 technical support.",
+      "keywords": "bipap rental, cpap rental, ventilator rental, respiratory equipment rental, sleep apnea machine rental, copd respiratory support, home ventilator rental, cpap machine on rent, bipap machine rental, cpap machine rental, home respiratory support, ventilator support service",
+      "ogTitle": "BiPAP CPAP Ventilator Rental | Respiratory Support at Home",
+      "ogDescription": "Professional respiratory equipment rentals with setup, training and ongoing support.",
+      "schemaTypes": [
+        "MedicalDevice",
+        "MedicalBusiness",
+        "FAQPage"
+      ],
+      "h1": "BiPAP, CPAP & Ventilator Rental in Delhi NCR"
+    },
+    "heroImage": "/Images/Services/BiPAP CPAP Ventilator.webp",
+    "comprehensiveDescription": "Advanced Respiratory Support Equipment for Breathing Assistance. Professional Setup & 24/7 Support. High-quality BIPAP, CPAP, and Ventilator machines available for rent with expert setup, training, and continuous support for patients requiring breathing assistance at home.",
+    "comprehensiveParagraphs": [
+      "At Nova Growth Health Care, we provide advanced BiPAP, CPAP, and Ventilator equipment on rent for patients requiring respiratory support. Our hospital-grade machines are ideal for sleep apnea treatment, respiratory disorders, and critical care needs. All equipment comes with professional setup, training, and 24/7 technical support.",
+      "Whether you need a CPAP machine for sleep apnea, BiPAP for respiratory support, or a ventilator for critical care, we offer flexible rental options with complete accessories, mask fitting, and ongoing maintenance support. Our trained technicians ensure proper setup and provide comprehensive training for safe home use."
+    ],
+    "features": [
+      {
+        "title": "Hospital-Grade Equipment",
+        "description": "Certified medical devices from leading manufacturers with proper maintenance and calibration.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Professional Setup & Training",
+        "description": "Expert technicians provide complete setup, mask fitting, and comprehensive training for safe use.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "24/7 Technical Support",
+        "description": "Round-the-clock assistance for troubleshooting, adjustments, and emergency support.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Free Home Delivery",
+        "description": "Convenient home delivery with complete setup and demonstration included.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Maintenance Included",
+        "description": "Regular servicing, filter replacement, and equipment maintenance throughout rental period.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Safety Certified",
+        "description": "All equipment is safety tested, certified, and sanitized before delivery.",
+        "icon": "FaShieldAlt"
+      }
+    ],
+    "pricing": [
+      {
+        "name": "CPAP Machine",
+        "price": "Continuous Positive Airway Pressure",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable for: Sleep apnea, snoring",
+          "Auto-adjusting pressure",
+          "Humidification",
+          "Sleep tracking",
+          "Quiet operation"
+        ]
+      },
+      {
+        "name": "BiPAP Machine",
+        "price": "Bilevel Positive Airway Pressure",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable for: COPD, respiratory failure",
+          "Dual pressure settings",
+          "Advanced modes",
+          "Oxygen port",
+          "Comfort features"
+        ]
+      },
+      {
+        "name": "Ventilator",
+        "price": "Advanced mechanical ventilation",
+        "duration": "",
+        "description": "",
+        "features": [
+          "Suitable for: Critical care, long-term ventilation",
+          "Multiple ventilation modes",
+          "Alarm systems",
+          "Battery backup",
+          "ICU-grade"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Sleep Apnea Patients"
+      },
+      {
+        "title": "COPD Patients"
+      },
+      {
+        "title": "Respiratory Failure"
+      },
+      {
+        "title": "Post-Surgery Recovery"
+      },
+      {
+        "title": "Neuromuscular Disorders"
+      },
+      {
+        "title": "Chronic Respiratory Conditions"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or WhatsApp with your requirement and doctor's prescription.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the equipment to your home and install it with complete setup and training.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Regular Service & Support",
+        "description": "We provide 24/7 assistance and free maintenance throughout the rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between CPAP and BiPAP?",
+        "answer": "CPAP provides a continuous fixed pressure, while BiPAP provides two different pressures for inhalation and exhalation."
+      },
+      {
+        "question": "Who needs a ventilator at home?",
+        "answer": "Ventilators are for critical patients who cannot breathe adequately on their own and require advanced mechanical support."
+      },
+      {
+        "question": "Is mask fitting included?",
+        "answer": "Yes, we provide professional mask fitting to ensure proper seal and comfort."
+      },
+      {
+        "question": "Can I travel with a CPAP machine?",
+        "answer": "Yes, CPAP machines are portable and travel-friendly."
+      },
+      {
+        "question": "Do I need a doctor prescription?",
+        "answer": "Yes, a prescription with exact pressure settings is required to configure the machine."
+      },
+      {
+        "question": "What support is included?",
+        "answer": "We provide 24/7 technical support, initial setup, and patient training."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "icu-monitor-rental-delhi-ncr": {
+    "id": "icu-monitor-rental-delhi-ncr",
+    "categoryId": "medical-equipments",
+    "title": "Patient ICU Monitor Rental",
+    "subtitle": "Advanced Multi-Parameter Patient Monitoring at Home",
+    "seo": {
+      "title": "Patient ICU Monitor Rental in Delhi NCR | Vital Signs Monitoring Equipment",
+      "description": "Rent ICU patient monitors for home care. Monitor ECG, SpO2, blood pressure and vital signs with professional installation and support.",
+      "keywords": "icu monitor rental, patient monitor rental, vital signs monitor rental, ecg monitor rental, multipara monitor rental, spo2 monitor rental, home patient monitoring, icu equipment rental, patient monitoring equipment, icu monitor service, medical monitoring systems, home healthcare monitoring",
+      "ogTitle": "Patient ICU Monitor Rental | Advanced Home Monitoring",
+      "ogDescription": "Professional ICU monitors available on rent with setup and training.",
+      "schemaTypes": [
+        "MedicalDevice",
+        "MedicalBusiness",
+        "FAQPage"
+      ],
+      "h1": "Patient ICU Monitor Rental in Delhi NCR"
+    },
+    "heroImage": "/Images/Services/Patient ICU Monitor.webp",
+    "comprehensiveDescription": "Professional-grade ICU monitors for continuous vital signs tracking. Monitor heart rate, blood pressure, oxygen saturation, temperature, and ECG from the comfort of your home. Essential for critical patients requiring constant observation.",
+    "comprehensiveParagraphs": [
+      "Professional-grade ICU monitors for continuous vital signs tracking. Monitor heart rate, blood pressure, oxygen saturation, temperature, and ECG from the comfort of your home. Essential for critical patients requiring constant observation.",
+      "Recognized as the best home healthcare service in delhi ncr, we provide professional healthcare staff and hospital level care at home. As a trusted patient care provider, we ensure same day healthcare assistance.",
+      "We offer 24/7 medical support at home for all our patients across Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Call for Immediate Assistance and get a Free Consultation today."
+    ],
+    "features": [
+      {
+        "title": "Multi-Parameter Monitoring",
+        "description": "Track heart rate, SpO2, blood pressure, temperature, and ECG all in one device.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Advanced Alarm System",
+        "description": "Configurable alarms for critical values with visual and audio alerts for patient safety.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Free Home Delivery & Setup",
+        "description": "Our technician delivers, installs, and provides training on monitor operation.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "24/7 Technical Support",
+        "description": "Round-the-clock assistance for any technical issues or questions about the monitor.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Maintenance Included",
+        "description": "Regular calibration, cleaning, and servicing included in rental package.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Data Recording & History",
+        "description": "Store and review vital signs history for better patient care management.",
+        "icon": "FaClipboardList"
+      }
+    ],
+    "pricingTitle": "Available Monitor Types",
+    "pricing": [
+      {
+        "name": "Basic Multi-Parameter Monitor",
+        "price": "₹2,500/week",
+        "duration": "₹8,000/month",
+        "description": "",
+        "features": [
+          "Heart Rate (ECG)",
+          "SpO2",
+          "Blood Pressure",
+          "Temperature",
+          "Basic alarms"
+        ]
+      },
+      {
+        "name": "Advanced ICU Monitor",
+        "price": "₹3,500/week",
+        "duration": "₹12,000/month",
+        "description": "",
+        "features": [
+          "All basic parameters",
+          "ECG with 12 lead",
+          "Respiratory Rate",
+          "CO2 monitoring",
+          "Advanced alarms",
+          "Data storage"
+        ]
+      },
+      {
+        "name": "Premium ICU Monitor",
+        "price": "₹5,000/week",
+        "duration": "₹18,000/month",
+        "description": "",
+        "features": [
+          "Complete vital signs",
+          "Advanced ECG analysis",
+          "Invasive BP monitoring",
+          "Temperature probes",
+          "Full data recording",
+          "Remote monitoring capability"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Post-surgery recovery"
+      },
+      {
+        "title": "Critical care at home"
+      },
+      {
+        "title": "Chronic heart conditions"
+      },
+      {
+        "title": "Respiratory disorders"
+      },
+      {
+        "title": "ICU step-down care"
+      },
+      {
+        "title": "Elderly monitoring"
+      },
+      {
+        "title": "Post-COVID recovery"
+      },
+      {
+        "title": "Vital signs tracking"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or fill the form with your monitoring requirements and patient condition.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the monitor, install, configure alarms, and provide training.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Continuous technical support and regular maintenance throughout rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What parameters can the monitor track?",
+        "answer": "It tracks ECG, Heart Rate, SpO2, Blood Pressure, Respiratory Rate, and Temperature."
+      },
+      {
+        "question": "Is alarm configuration included?",
+        "answer": "Yes, our technicians configure all critical high/low alarms based on doctor recommendations."
+      },
+      {
+        "question": "Can data be stored and reviewed?",
+        "answer": "Yes, our advanced monitors have trend storage to review historical vitals."
+      },
+      {
+        "question": "Is training provided?",
+        "answer": "Absolutely, we train the family members or nurses on how to read the monitor and understand alarms."
+      },
+      {
+        "question": "What happens if there is a technical issue?",
+        "answer": "We provide 24/7 technical support and immediate replacement if the monitor malfunctions."
+      },
+      {
+        "question": "Is the monitor suitable for ICU setup at home?",
+        "answer": "Yes, these are medical-grade multipara monitors essential for any home ICU setup."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "recliner-bed-rental-delhi-ncr": {
+    "id": "recliner-bed-rental-delhi-ncr",
+    "seo": {
+      "title": "Recliner Bed Rental in Delhi NCR | Adjustable Recovery Beds on Rent",
+      "description": "Rent premium recliner beds for patient recovery, elderly care and home healthcare. Delivery and setup available across Delhi NCR.",
+      "keywords": "recliner bed rental, adjustable bed rental, patient recliner bed, medical recliner bed rental, electric recliner bed, elderly care bed, recovery bed rental, adjustable patient bed, home recovery bed rental, adjustable healthcare bed, premium recliner bed, patient comfort bed, recliner bed rental gurugram",
+      "focusKeyword": "Recliner Bed Rental Delhi NCR",
+      "ogTitle": "Recliner Bed Rental | Comfortable Recovery at Home",
+      "ogDescription": "Adjustable recliner beds for home recovery, elderly care and patient comfort available on rent.",
+      "h1": "Recliner Bed Rental in Delhi NCR",
+      "imageAlt": "recliner bed rental delhi adjustable patient bed electric recliner bed home recovery furniture elderly care recliner bed",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating"
+      ]
+    },
+    "categoryId": "medical-equipments",
+    "title": "Recliner Bed Rental",
+    "subtitle": "Comfortable Recovery & Rest at Home",
+    "heroImage": "/Images/Services/Recliner Bed.webp",
+    "comprehensiveDescription": "Get premium quality recliner beds on rent for comfortable recovery and rest. At Nova Growth Health Care, we offer electric and manual recliner beds with adjustable backrest and leg rest. Perfect for post-surgery recovery, back pain relief, respiratory conditions, elderly care, and long-term bed rest patients.",
+    "comprehensiveParagraphs": [
+      "At Nova Growth Health Care, we provide high-quality recliner beds on rent for comfortable recovery and rest at home. Our recliner beds feature adjustable backrest and leg rest positions, making them ideal for post-surgery recovery, back pain relief, respiratory conditions, elderly care, and patients requiring long-term bed rest. Available in electric and manual models with various sizes.",
+      null,
+      "Rated as the best wheelchair rental service in Delhi NCR, we ensure affordable medical equipment rental near me with same-day healthcare equipment delivery.",
+      "As a trusted home healthcare provider, our medical equipment rental for patient recovery ensures 24/7 healthcare support in Delhi NCR, covering Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad."
+    ],
+    "features": [
+      {
+        "title": "Adjustable Positions",
+        "description": "Electric and manual recliner beds with adjustable backrest and leg rest for maximum comfort.",
+        "icon": "FaBed"
+      },
+      {
+        "title": "Affordable Weekly/Monthly Rentals",
+        "description": "Competitive rental rates with flexible payment options and no hidden charges.",
+        "icon": "FaMoneyBillWave"
+      },
+      {
+        "title": "Free Home Delivery & Setup",
+        "description": "We deliver and set up the recliner bed at your home with complete installation support.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "24/7 Customer Support",
+        "description": "Round-the-clock assistance for any queries, adjustments, or issues.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Maintenance & Service Included",
+        "description": "Free maintenance, cleaning, and repair services throughout the rental period.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Sanitized & Hygienic",
+        "description": "All beds are thoroughly cleaned, sanitized, and disinfected before delivery.",
+        "icon": "FaShieldAlt"
+      }
+    ],
+    "pricingTitle": "Available Recliner Beds for Rent",
+    "pricing": [
+      {
+        "name": "Manual Recliner Bed",
+        "price": "₹1,500/week",
+        "duration": "₹5,000/month",
+        "description": "",
+        "features": [
+          "Manual adjustment",
+          "Adjustable backrest",
+          "Comfortable mattress"
+        ]
+      },
+      {
+        "name": "Electric Recliner Bed",
+        "price": "₹2,500/week",
+        "duration": "₹7,500/month",
+        "description": "",
+        "features": [
+          "Remote control operation",
+          "Smooth electric adjustment",
+          "Multiple position settings"
+        ]
+      },
+      {
+        "name": "Premium Electric Recliner",
+        "price": "₹3,500/week",
+        "duration": "₹12,000/month",
+        "description": "",
+        "features": [
+          "Advanced features",
+          "Memory positions",
+          "USB charging ports"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Post-surgery recovery"
+      },
+      {
+        "title": "Back pain relief"
+      },
+      {
+        "title": "Respiratory conditions"
+      },
+      {
+        "title": "Elderly care"
+      },
+      {
+        "title": "Long-term bed rest"
+      },
+      {
+        "title": "COPD patients"
+      },
+      {
+        "title": "Heart conditions"
+      },
+      {
+        "title": "Hospital discharge"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or fill the form with your requirement and preferred bed type.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the recliner bed to your home and provide complete setup.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Regular Support",
+        "description": "We provide 24/7 assistance and free maintenance throughout the rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a recliner bed?",
+        "answer": "A recliner bed is a specialized adjustable bed that allows patients to elevate their back and legs for maximum comfort and medical support."
+      },
+      {
+        "question": "Is it electric or manual?",
+        "answer": "We offer both motorized (electric) remote-controlled beds and manual crank-operated beds."
+      },
+      {
+        "question": "Who should use a recliner bed?",
+        "answer": "It is ideal for elderly patients, individuals recovering from surgery, or anyone suffering from acid reflux or mobility issues."
+      },
+      {
+        "question": "Is installation included?",
+        "answer": "Yes, our team handles complete delivery, installation, and demonstration at your home."
+      },
+      {
+        "question": "Can it help with respiratory conditions?",
+        "answer": "Yes, elevating the backrest significantly helps patients with asthma or COPD breathe much more comfortably."
+      },
+      {
+        "question": "What rental durations are available?",
+        "answer": "You can rent our beds on a weekly or monthly basis depending on the duration of your recovery."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "suction-machine-rental-delhi-ncr": {
+    "id": "suction-machine-rental-delhi-ncr",
+    "seo": {
+      "title": "Suction Machine Rental in Delhi NCR | Portable & Medical Suction Devices",
+      "description": "Rent medical suction machines in Delhi NCR for tracheostomy care, mucus removal and respiratory support. Same-day delivery and setup available.",
+      "keywords": "suction machine rental, medical suction machine, portable suction machine rental, suction machine on rent, tracheostomy suction machine, airway suction device, mucus removal machine, respiratory suction equipment, medical suction equipment, portable suction machine, home airway management, respiratory care equipment, suction machine rental delhi ncr",
+      "focusKeyword": "Suction Machine Rental Delhi NCR",
+      "ogTitle": "Suction Machine Rental | Home Respiratory Care Equipment",
+      "ogDescription": "Medical suction machines available on rent with setup and support across Delhi NCR.",
+      "h1": "Suction Machine Rental in Delhi NCR",
+      "imageAlt": "medical suction machine rental portable suction machine delhi tracheostomy suction device airway clearance equipment home suction machine",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating"
+      ]
+    },
+    "categoryId": "medical-equipments",
+    "title": "Suction Machine Rental",
+    "subtitle": "Medical Suction Equipment for Respiratory Care",
+    "heroImage": "/Images/Services/Suction Machine.webp",
+    "comprehensiveDescription": "Professional-grade suction machines for removing secretions, mucus, and fluids from airways. Essential for patients with tracheostomy, respiratory conditions, or difficulty clearing airways. Portable and hospital-grade machines available for home care.",
+    "comprehensiveParagraphs": [
+      "Professional-grade suction machines for removing secretions, mucus, and fluids from airways. Essential for patients with tracheostomy, respiratory conditions, or difficulty clearing airways. Portable and hospital-grade machines available for home care.",
+      "Rated as the best wheelchair rental service in Delhi NCR, we ensure affordable medical equipment rental near me with same-day healthcare equipment delivery.",
+      "As a trusted home healthcare provider, our medical equipment rental for patient recovery ensures 24/7 healthcare support in Delhi NCR, covering Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad."
+    ],
+    "features": [
+      {
+        "title": "Effective Secretion Removal",
+        "description": "Powerful suction to clear airways, remove mucus, and maintain respiratory function.",
+        "icon": "FaLungs"
+      },
+      {
+        "title": "Medical-Grade Equipment",
+        "description": "Hospital-quality suction machines with adjustable pressure settings and safety features.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Free Home Delivery",
+        "description": "Our technician delivers, sets up, and provides training on machine operation.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock assistance for any technical issues or questions.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Maintenance Included",
+        "description": "Regular cleaning, servicing, and repairs included in rental package.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Portable Design",
+        "description": "Lightweight and portable machines for easy movement and travel needs.",
+        "icon": "FaWalking"
+      }
+    ],
+    "pricingTitle": "Available Suction Machine Types",
+    "pricing": [
+      {
+        "name": "Portable Suction Machine",
+        "price": "₹1,500/week",
+        "duration": "₹5,000/month",
+        "description": "",
+        "features": [
+          "Lightweight & portable",
+          "Adjustable suction pressure",
+          "Battery backup",
+          "Easy to use"
+        ]
+      },
+      {
+        "name": "Hospital-Grade Suction",
+        "price": "₹2,500/week",
+        "duration": "₹8,000/month",
+        "description": "",
+        "features": [
+          "High-power suction",
+          "Variable pressure control",
+          "Large collection bottle",
+          "Auto shut-off",
+          "Quiet operation"
+        ]
+      },
+      {
+        "name": "Advanced Suction System",
+        "price": "₹3,500/week",
+        "duration": "₹12,000/month",
+        "description": "",
+        "features": [
+          "Dual pressure settings",
+          "Digital display",
+          "Memory function",
+          "Advanced filtration",
+          "Multiple accessories included"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Tracheostomy patients"
+      },
+      {
+        "title": "Respiratory conditions"
+      },
+      {
+        "title": "Post-surgery recovery"
+      },
+      {
+        "title": "Neurological disorders"
+      },
+      {
+        "title": "Elderly with swallowing issues"
+      },
+      {
+        "title": "ICU patients at home"
+      },
+      {
+        "title": "Chronic lung diseases"
+      },
+      {
+        "title": "Ventilator-dependent patients"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or fill the form with your suction machine requirements and patient condition.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the machine, set it up, adjust pressure settings, and provide training.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Continuous technical support and regular maintenance throughout rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is a suction machine used for?",
+        "answer": "A suction machine is a medical device used to remove obstructions like mucus, saliva, blood, or secretions from a person's airway."
+      },
+      {
+        "question": "Who needs a suction machine at home?",
+        "answer": "Patients with respiratory conditions, ongoing tracheostomy care, or those who have difficulty clearing their own secretions require a suction machine at home."
+      },
+      {
+        "question": "Can it be used for tracheostomy patients?",
+        "answer": "Yes, our medical suction devices are highly effective and widely used for safe tracheostomy care."
+      },
+      {
+        "question": "Is training provided?",
+        "answer": "Yes, our technicians provide complete training on how to safely operate the machine and manage the suction pressure."
+      },
+      {
+        "question": "How often should the machine be cleaned?",
+        "answer": "The collection canister and tubing should be cleaned daily to prevent infection and ensure optimal performance."
+      },
+      {
+        "question": "Is emergency delivery available?",
+        "answer": "Yes, we provide fast, same-day delivery across Delhi NCR for urgent requirements."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "wheelchair-rental-delhi-ncr": {
+    "id": "wheelchair-rental-delhi-ncr",
+    "seo": {
+      "title": "Wheelchair Rental in Delhi NCR | Manual & Electric Wheelchairs on Rent",
+      "description": "Rent manual and electric wheelchairs in Delhi NCR. Affordable mobility support with home delivery and flexible rental plans.",
+      "keywords": "wheelchair rental, wheelchair on rent, electric wheelchair rental, manual wheelchair rental, mobility equipment rental, patient wheelchair rental, wheelchair near me, hospital wheelchair rental, wheelchair hire service, mobility support equipment, electric wheelchair hire, patient mobility solutions, wheelchair rental gurgaon, wheelchair rental noida, wheelchair rental ghaziabad, patient mobility solutions delhi",
+      "focusKeyword": "Wheelchair Rental Delhi NCR",
+      "ogTitle": "Wheelchair Rental | Mobility Support at Home",
+      "ogDescription": "Affordable manual and electric wheelchairs with same-day delivery across Delhi NCR.",
+      "h1": "Wheelchair Rental in Delhi NCR",
+      "imageAlt": "wheelchair rental delhi ncr electric wheelchair rental manual wheelchair on rent mobility support equipment patient wheelchair service",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating"
+      ]
+    },
+    "categoryId": "medical-equipments",
+    "title": "Wheelchair Rental",
+    "subtitle": "Mobility Support for Comfort & Independence",
+    "heroImage": "/Images/Services/Wheelchair.webp",
+    "comprehensiveDescription": "Get premium quality wheelchairs on rent for temporary or long-term mobility needs. At Nova Growth Health Care, we offer a wide range of wheelchairs including standard, transport, and electric wheelchairs. Perfect for post-surgery recovery, temporary mobility issues, elderly care, disability support, and rehabilitation.",
+    "comprehensiveParagraphs": [
+      "At Nova Growth Health Care, we provide high-quality wheelchairs on rent for temporary or long-term mobility needs. Our wheelchairs are ergonomically designed, lightweight, and easy to maneuver. Whether you need a wheelchair for post-surgery recovery, temporary mobility issues, elderly care, disability support, or rehabilitation, we have the right solution for you.",
+      "Rated as the best wheelchair rental service in Delhi NCR, we ensure affordable medical equipment rental near me with same-day healthcare equipment delivery.",
+      "As a trusted home healthcare provider, our medical equipment rental for patient recovery ensures 24/7 healthcare support in Delhi NCR, covering Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad."
+    ],
+    "features": [
+      {
+        "title": "Wide Range of Wheelchairs",
+        "description": "Standard, transport, electric, and bariatric wheelchairs available to suit all needs.",
+        "icon": "FaWheelchair"
+      },
+      {
+        "title": "Affordable Daily/Weekly/Monthly Rentals",
+        "description": "Flexible rental options with competitive pricing and no hidden charges.",
+        "icon": "FaMoneyBillWave"
+      },
+      {
+        "title": "Free Home Delivery & Setup",
+        "description": "We deliver the wheelchair to your home and provide setup assistance.",
+        "icon": "FaHome"
+      },
+      {
+        "title": "24/7 Customer Support",
+        "description": "Round-the-clock assistance for any queries or issues.",
+        "icon": "FaHeadset"
+      },
+      {
+        "title": "Maintenance & Service Included",
+        "description": "Free maintenance and repair services throughout the rental period.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Sanitized & Hygienic",
+        "description": "All wheelchairs are thoroughly cleaned and sanitized before delivery.",
+        "icon": "FaShieldAlt"
+      }
+    ],
+    "pricingTitle": "Available Wheelchairs for Rent",
+    "pricing": [
+      {
+        "name": "Standard Wheelchair",
+        "price": "₹200/day",
+        "duration": "₹3,500/month",
+        "description": "",
+        "features": [
+          "Lightweight & foldable",
+          "Easy to maneuver",
+          "Standard weight capacity (100–120 kg)"
+        ]
+      },
+      {
+        "name": "Transport Wheelchair",
+        "price": "₹150/day",
+        "duration": "₹2,500/month",
+        "description": "",
+        "features": [
+          "Compact design",
+          "Easy to transport",
+          "Ideal for short-term use"
+        ]
+      },
+      {
+        "name": "Electric Wheelchair",
+        "price": "₹500/day",
+        "duration": "₹8,000/month",
+        "description": "",
+        "features": [
+          "Battery operated",
+          "Joystick control",
+          "Long battery life"
+        ]
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Post-surgery recovery"
+      },
+      {
+        "title": "Temporary mobility issues"
+      },
+      {
+        "title": "Elderly care"
+      },
+      {
+        "title": "Disability support"
+      },
+      {
+        "title": "Rehabilitation"
+      },
+      {
+        "title": "Injury recovery"
+      },
+      {
+        "title": "Long-term care"
+      },
+      {
+        "title": "Hospital discharge"
+      }
+    ],
+    "howItWorks": [
+      {
+        "title": "Contact Us",
+        "description": "Call or fill the form with your requirement and preferred wheelchair type.",
+        "icon": "FaPhoneAlt"
+      },
+      {
+        "title": "Delivery & Setup",
+        "description": "We deliver the wheelchair to your home and provide setup assistance.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Regular Support",
+        "description": "We provide 24/7 assistance and free maintenance throughout the rental period.",
+        "icon": "FaHeadset"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What types of wheelchairs are available?",
+        "answer": "We offer manual wheelchairs, lightweight foldable wheelchairs, commode wheelchairs, and fully electric wheelchairs."
+      },
+      {
+        "question": "Do you provide electric wheelchairs?",
+        "answer": "Yes, we provide easy-to-operate electric wheelchairs for maximum independence and mobility."
+      },
+      {
+        "question": "Can I rent for one day?",
+        "answer": "Yes, we offer highly flexible rental plans including daily, weekly, and monthly options."
+      },
+      {
+        "question": "Is delivery included?",
+        "answer": "Yes, we provide doorstep delivery and pickup across Delhi, Noida, Gurgaon, and the rest of NCR."
+      },
+      {
+        "question": "Are wheelchairs sanitized?",
+        "answer": "Absolutely. All our wheelchairs are strictly sanitized, cleaned, and serviced before every dispatch."
+      },
+      {
+        "question": "What is the weight capacity?",
+        "answer": "Our standard manual wheelchairs easily support up to 100-120 kg, while heavy-duty options are also available."
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "ambulance-service-delhi-ncr": {
+    "id": "ambulance-service-delhi-ncr",
+    "seo": {
+      "title": "24x7 Ambulance Service in Delhi NCR | Emergency Medical Transport",
+      "description": "Emergency ambulance service available 24/7 with trained paramedics, oxygen support and patient transport across Delhi NCR.",
+      "keywords": "ambulance service, emergency ambulance, 24x7 ambulance, patient transport ambulance, icu ambulance, oxygen ambulance, hospital transfer ambulance, ambulance near me, medical transport service, emergency patient transfer, critical care ambulance, ambulance transportation, ambulance service delhi ncr, emergency ambulance noida, home healthcare gurgaon, patient care faridabad",
+      "focusKeyword": "Ambulance Service Delhi NCR",
+      "ogTitle": "24x7 Ambulance Service | Emergency Medical Transport",
+      "ogDescription": "Rapid ambulance response with oxygen support and trained medical staff.",
+      "h1": "24x7 Ambulance Service in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Person"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "24×7 Ambulance Service",
+    "subtitle": "Emergency Medical Transportation & Patient Transfers",
+    "heroImage": "/Images/Services/Ambulance.webp",
+    "comprehensiveDescription": "Round-the-clock ambulance service for emergency medical transportation and patient transfers. Fully equipped ambulances with life-saving equipment, oxygen supply, and trained paramedical staff. Quick response time for emergencies, hospital transfers, and inter-city patient transport.",
+    "comprehensiveParagraphs": [
+      "Our 24×7 ambulance service provides immediate emergency medical transportation with fully equipped ambulances and trained paramedical staff. We ensure quick response times, safe patient transfers, and professional care during transit. Available round the clock for emergencies, hospital transfers, and inter-city patient transport.",
+      null,
+      "Recognized as the best home healthcare service in delhi ncr, we provide professional healthcare staff and hospital level care at home. As a trusted patient care provider, we ensure same day healthcare assistance.",
+      "We offer 24/7 medical support at home for all our patients across Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Call for Immediate Assistance and get a Free Consultation today."
+    ],
+    "features": [
+      {
+        "title": "24×7 Availability",
+        "description": "Round-the-clock service for emergencies, anytime, anywhere.",
+        "icon": "FaClock"
+      },
+      {
+        "title": "Fully Equipped Ambulances",
+        "description": "Life-saving equipment, oxygen supply, and medical devices onboard.",
+        "icon": "FaAmbulance"
+      },
+      {
+        "title": "Trained Paramedical Staff",
+        "description": "Experienced paramedics providing professional care during transit.",
+        "icon": "FaUserMd"
+      },
+      {
+        "title": "Quick Response Time",
+        "description": "Fast dispatch and arrival for emergency situations.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Hospital Transfers",
+        "description": "Safe inter-hospital and inter-city patient transfers.",
+        "icon": "FaHospitalUser"
+      },
+      {
+        "title": "Safe & Secure",
+        "description": "Proper patient handling and safety protocols throughout the journey.",
+        "icon": "FaShieldAlt"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Emergency ambulance service"
+      },
+      {
+        "title": "Hospital to hospital transfers"
+      },
+      {
+        "title": "Inter-city patient transport"
+      },
+      {
+        "title": "Airport to hospital transfers"
+      },
+      {
+        "title": "Discharge to home transfers"
+      },
+      {
+        "title": "Critical care transport"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "cannulation-insertion-at-home-delhi-ncr": {
+    "id": "cannulation-insertion-at-home-delhi-ncr",
+    "seo": {
+      "title": "IV Cannulation at Home in Delhi NCR | Cannula Insertion Service",
+      "description": "Expert IV cannula insertion at home by trained nurses. Safe and sterile venous access for medications, fluids and infusion therapy.",
+      "keywords": "iv cannulation, cannula insertion, iv line insertion, venous access service, intravenous cannulation, home iv access, cannula replacement, nurse cannulation service",
+      "focusKeyword": "IV Cannulation at Home Delhi NCR",
+      "ogTitle": "Professional IV Cannulation Service at Home",
+      "ogDescription": "Expert, pain-free IV cannula insertion by experienced nurses.",
+      "h1": "IV Cannulation at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "MedicalProcedure",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "Cannulation Insertion",
+    "subtitle": "Expert IV Cannula Insertion for Medication & Fluid Administration",
+    "heroImage": "/Images/Services/Cannulation Insertion.webp",
+    "comprehensiveDescription": "Expert IV cannula insertion for medication and fluid administration at home. Skilled nurses ensure pain-free cannulation with proper vein selection and sterile technique. Ideal for patients requiring regular IV medications, hydration therapy, or blood transfusions.",
+    "comprehensiveParagraphs": [
+      "Our skilled nurses provide expert IV cannula insertion services at your home. We ensure pain-free cannulation with proper vein selection and sterile technique. Ideal for patients requiring regular IV medications, hydration therapy, blood transfusions, or long-term IV access. Our service ensures patient comfort, safety, and proper cannula maintenance.",
+      null,
+      "Recognized as the best home healthcare service in delhi ncr, we provide professional healthcare staff and hospital level care at home. As a trusted patient care provider, we ensure same day healthcare assistance.",
+      "We offer 24/7 medical support at home for all our patients across Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Call for Immediate Assistance and get a Free Consultation today."
+    ],
+    "features": [
+      {
+        "title": "Skilled Nurses",
+        "description": "Experienced nurses with expertise in IV cannulation.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Sterile Technique",
+        "description": "Complete sterile procedure ensuring infection prevention.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Proper Vein Selection",
+        "description": "Expert vein selection for successful cannulation.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Pain-Free Procedure",
+        "description": "Gentle technique ensuring minimal discomfort.",
+        "icon": "FaSyringe"
+      },
+      {
+        "title": "IV Access Management",
+        "description": "Proper cannula care and maintenance guidance.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "On-Call Service",
+        "description": "Available when you need us with quick response times.",
+        "icon": "FaAmbulance"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "IV cannula insertion"
+      },
+      {
+        "title": "Cannula replacement"
+      },
+      {
+        "title": "IV access management"
+      },
+      {
+        "title": "Hydration therapy setup"
+      },
+      {
+        "title": "Blood transfusion setup"
+      },
+      {
+        "title": "Cannula care and maintenance"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "urine-catheterization-at-home-delhi-ncr": {
+    "id": "urine-catheterization-at-home-delhi-ncr",
+    "seo": {
+      "title": "Urine Catheterization at Home in Delhi NCR | Catheter Care Service",
+      "description": "Professional urinary catheter insertion, replacement and catheter care services at home. Safe and sterile nursing support available.",
+      "keywords": "urine catheterization, urinary catheter insertion, catheter replacement, foley catheter service, catheter care at home, urinary retention support, home nursing catheter service, patient catheter management, home nursing gurgaon, patient care faridabad",
+      "focusKeyword": "Urine Catheterization at Home Delhi NCR",
+      "ogTitle": "Urine Catheterization at Home | Nursing Support Service",
+      "ogDescription": "Professional urinary catheter insertion and sterile catheter care at home.",
+      "h1": "Urine Catheterization at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "MedicalProcedure",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "Urine Catheterization",
+    "subtitle": "Sterile Catheter Insertion & Management at Home",
+    "heroImage": "/Images/Services/Urine Catheterization.webp",
+    "comprehensiveDescription": "Sterile catheter insertion and management by skilled nurses at home. Professional urinary catheterization service for patients with urinary retention, post-surgery care, or mobility issues. Includes proper hygiene protocols and infection prevention measures.",
+    "comprehensiveParagraphs": [
+      "Our skilled nurses provide sterile urinary catheter insertion and management services at your home. We follow strict hygiene protocols and infection prevention measures. Ideal for patients with urinary retention, post-surgery care, mobility issues, or those requiring long-term catheterization. Our service ensures patient comfort, safety, and proper catheter maintenance.",
+      null,
+      "Recognized as the best home healthcare service in delhi ncr, we provide professional healthcare staff and hospital level care at home. As a trusted patient care provider, we ensure same day healthcare assistance.",
+      "We offer 24/7 medical support at home for all our patients across Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Call for Immediate Assistance and get a Free Consultation today."
+    ],
+    "features": [
+      {
+        "title": "Skilled Nurses",
+        "description": "Experienced nurses with expertise in catheter insertion and care.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Sterile Technique",
+        "description": "Complete sterile procedure ensuring infection prevention.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Proper Hygiene",
+        "description": "Strict hygiene protocols and infection prevention measures.",
+        "icon": "FaNotesMedical"
+      },
+      {
+        "title": "Patient Comfort",
+        "description": "Gentle procedure minimizing discomfort and ensuring safety.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Care Management",
+        "description": "Comprehensive catheter care and maintenance guidance.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "On-Call Service",
+        "description": "Available when you need us with quick response times.",
+        "icon": "FaAmbulance"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Urinary catheter insertion"
+      },
+      {
+        "title": "Catheter replacement"
+      },
+      {
+        "title": "Catheter care and maintenance"
+      },
+      {
+        "title": "Emergency catheter service"
+      },
+      {
+        "title": "Caregiver training"
+      },
+      {
+        "title": "Follow-up care support"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "injection-iv-infusion-at-home-delhi-ncr": {
+    "id": "injection-iv-infusion-at-home-delhi-ncr",
+    "seo": {
+      "title": "Injection & IV Infusion at Home in Delhi NCR | Nursing Services",
+      "description": "Safe injection administration and IV infusion therapy at home by trained nurses. Available for medications, fluids and vitamin infusions.",
+      "keywords": "iv infusion at home, injection service at home, home nursing injection, intravenous infusion therapy, iv medication administration, home injection nurse, vitamin infusion therapy, medical infusion service",
+      "focusKeyword": "IV Infusion at Home Delhi NCR",
+      "ogTitle": "Injection & IV Infusion Service at Home",
+      "ogDescription": "Safe, doctor-prescribed IV therapy and injection services at home.",
+      "h1": "Injection & IV Infusion at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "MedicalProcedure",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "Injection & IV Infusion",
+    "subtitle": "Safe Medication Administration at Home",
+    "heroImage": "/Images/Services/Injection & IV Infusion.webp",
+    "comprehensiveDescription": "Safe administration of injections and intravenous medications at home. Professional nurses provide pain-free injections, IV medications, and infusion therapy. Proper medication handling, sterile technique, and monitoring for any adverse reactions.",
+    "comprehensiveParagraphs": [
+      "Our professional nurses provide safe administration of injections and intravenous medications at your home. We ensure pain-free injections, proper IV medication administration, and infusion therapy with sterile technique. Our service includes proper medication handling, monitoring for adverse reactions, and comprehensive care for patients requiring regular medication administration.",
+      null,
+      "Rated as the best baby care service in delhi ncr, our professional nanny services and certified caregivers offer trusted infant care provider support. Whether you need a newborn caregiver near me or night nanny service, we deliver unparalleled safety.",
+      "We provide 24/7 baby care support across Delhi, New Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Call for Immediate Assistance today."
+    ],
+    "features": [
+      {
+        "title": "Professional Nurses",
+        "description": "Experienced nurses with expertise in medication administration.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Safe Administration",
+        "description": "Proper medication handling and sterile technique.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Pain-Free Injections",
+        "description": "Gentle technique ensuring minimal discomfort.",
+        "icon": "FaSyringe"
+      },
+      {
+        "title": "IV Infusion Therapy",
+        "description": "Expert IV medication and fluid administration.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Reaction Monitoring",
+        "description": "Careful monitoring for any adverse reactions.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "On-Call Service",
+        "description": "Available when you need us with quick response times.",
+        "icon": "FaAmbulance"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Intramuscular injections"
+      },
+      {
+        "title": "Intravenous injections"
+      },
+      {
+        "title": "IV medication administration"
+      },
+      {
+        "title": "IV infusion therapy"
+      },
+      {
+        "title": "Subcutaneous injections"
+      },
+      {
+        "title": "Medication monitoring"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "ryles-tube-replacement-at-home-delhi-ncr": {
+    "id": "ryles-tube-replacement-at-home-delhi-ncr",
+    "seo": {
+      "title": "Ryle's Tube Replacement at Home in Delhi NCR | NG Tube Care Services",
+      "description": "Professional Ryle's tube insertion and replacement at home by trained nurses. Safe, sterile and reliable NG tube care services across Delhi NCR.",
+      "keywords": "ryles tube replacement, ng tube insertion, nasogastric tube replacement, feeding tube insertion, feeding tube care, home nursing service, tube feeding support, ng tube management, home nursing services delhi, nurse at home delhi ncr, medical procedure at home, home healthcare services, medical assistance at home",
+      "focusKeyword": "Ryle's Tube Replacement at Home Delhi NCR",
+      "ogTitle": "Ryle's Tube Replacement at Home | Professional Nursing Care",
+      "ogDescription": "Safe, sterile and reliable NG tube care services across Delhi NCR.",
+      "h1": "Ryle's Tube Replacement at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "MedicalProcedure",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "Ryle’s Tube Replacement",
+    "subtitle": "Professional Nasogastric Tube Insertion at Home",
+    "heroImage": "/Images/Services/Ryles Tube Replacement.webp",
+    "comprehensiveDescription": "Professional nasogastric tube insertion and replacement at home by trained medical staff. Sterile procedure ensuring patient comfort and safety. Includes proper positioning, verification, and care instructions for tube maintenance.",
+    "comprehensiveParagraphs": [
+      "Our trained medical professionals provide safe and sterile Ryle's tube (nasogastric tube) insertion and replacement services at your home. We ensure proper positioning, verification, and provide comprehensive care instructions for tube maintenance. Ideal for patients who cannot eat normally, require feeding support, or need medication administration through the tube.",
+      null,
+      "Recognized as the best domestic helper service in delhi ncr, we provide professional housekeeping support and verified maid service near me. Our trusted home helper services guarantee complete peace of mind.",
+      "Whether you need a part time maid service delhi or a full time domestic helper, our verified staff and caregivers are available across Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad. Get a Free Consultation today."
+    ],
+    "features": [
+      {
+        "title": "Trained Medical Staff",
+        "description": "Experienced nurses and medical professionals with expertise in tube insertion.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Sterile Procedure",
+        "description": "Complete sterile technique ensuring patient safety and infection prevention.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Proper Positioning",
+        "description": "Correct tube placement verified through proper medical techniques.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Care Instructions",
+        "description": "Comprehensive guidance for tube maintenance and daily care.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Patient Comfort",
+        "description": "Gentle procedure minimizing discomfort and ensuring patient well-being.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "On-Call Service",
+        "description": "Available when you need us, with quick response times.",
+        "icon": "FaAmbulance"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Nasogastric tube insertion"
+      },
+      {
+        "title": "Ryle's tube replacement"
+      },
+      {
+        "title": "Tube positioning verification"
+      },
+      {
+        "title": "Care instructions and training"
+      },
+      {
+        "title": "Emergency tube replacement"
+      },
+      {
+        "title": "Follow-up care support"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "tracheostomy-tube-change-at-home-delhi-ncr": {
+    "id": "tracheostomy-tube-change-at-home-delhi-ncr",
+    "seo": {
+      "title": "Tracheostomy Tube Change at Home in Delhi NCR | Tracheostomy Care",
+      "description": "Expert tracheostomy tube replacement and care at home by trained healthcare professionals. Safe airway management services in Delhi NCR.",
+      "keywords": "tracheostomy tube change, tracheostomy care, trach tube replacement, airway management, home tracheostomy care, trach nurse service, tracheostomy cleaning, airway support service, home healthcare nurse noida, nursing care ghaziabad, critical care at home",
+      "focusKeyword": "Tracheostomy Tube Change at Home Delhi NCR",
+      "ogTitle": "Tracheostomy Tube Change | Home Airway Care Service",
+      "ogDescription": "Safe airway management and tracheostomy care services in Delhi NCR.",
+      "h1": "Tracheostomy Tube Change at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "MedicalProcedure",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "Tracheostomy Tube Change",
+    "subtitle": "Safe Tube Changes by Trained Medical Professionals",
+    "heroImage": "/Images/Services/Tracheostomy Tube Change.webp",
+    "comprehensiveDescription": "Safe tracheostomy tube changes by trained medical professionals at home. Expert care ensuring proper hygiene, preventing infections, and maintaining airway patency. Includes cleaning, tube replacement, and emergency care guidance for caregivers.",
+    "comprehensiveParagraphs": [
+      "Our trained medical professionals provide safe tracheostomy tube changes at your home. We ensure proper hygiene, prevent infections, and maintain airway patency. Our service includes thorough cleaning, tube replacement, and comprehensive emergency care guidance for caregivers. Essential for patients with long-term tracheostomy who require regular tube maintenance.",
+      null,
+      "Recognized as the best home nursing service in delhi ncr, we dispatch a professional nurse at home for all your clinical needs. Our trained healthcare professionals are fully equipped for doctor prescribed medical procedures at home.",
+      "As your trusted home healthcare provider, we offer a same day nursing visit and comprehensive 24/7 nursing support across Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad."
+    ],
+    "features": [
+      {
+        "title": "Expert Medical Professionals",
+        "description": "Trained specialists with extensive experience in tracheostomy care.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Infection Prevention",
+        "description": "Proper hygiene protocols to prevent infections and complications.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Airway Patency",
+        "description": "Ensures clear airway and proper breathing function.",
+        "icon": "FaLungs"
+      },
+      {
+        "title": "Thorough Cleaning",
+        "description": "Complete cleaning and maintenance of tracheostomy site.",
+        "icon": "FaTools"
+      },
+      {
+        "title": "Emergency Guidance",
+        "description": "Comprehensive care instructions for emergency situations.",
+        "icon": "FaNotesMedical"
+      },
+      {
+        "title": "On-Call Service",
+        "description": "Available when you need us with quick response times.",
+        "icon": "FaAmbulance"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Tracheostomy tube change"
+      },
+      {
+        "title": "Site cleaning and care"
+      },
+      {
+        "title": "Tube replacement"
+      },
+      {
+        "title": "Emergency tube replacement"
+      },
+      {
+        "title": "Caregiver training"
+      },
+      {
+        "title": "Follow-up care support"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  },
+  "wound-dressing-at-home-delhi-ncr": {
+    "id": "wound-dressing-at-home-delhi-ncr",
+    "seo": {
+      "title": "Wound Dressing at Home in Delhi NCR | Surgical & Chronic Wound Care",
+      "description": "Professional wound dressing services at home for surgical wounds, diabetic ulcers, pressure sores and chronic wound management.",
+      "keywords": "wound dressing at home, wound care nurse, surgical wound dressing, diabetic wound care, pressure sore treatment, bed sore care, chronic wound management, post surgery wound care, nursing care services",
+      "focusKeyword": "Wound Dressing at Home Delhi NCR",
+      "ogTitle": "Professional Wound Dressing Service at Home",
+      "ogDescription": "Sterile surgical and chronic wound care services by expert nurses.",
+      "h1": "Wound Dressing at Home in Delhi NCR",
+      "schemaTypes": [
+        "MedicalBusiness",
+        "Product",
+        "FAQPage",
+        "LocalBusiness",
+        "Service",
+        "MedicalProcedure",
+        "WebPage",
+        "Review",
+        "AggregateRating",
+        "Organization",
+        "BreadcrumbList"
+      ]
+    },
+    "categoryId": "on-call-services",
+    "title": "Wound Dressing at Home",
+    "subtitle": "Professional Wound Care & Dressing Changes",
+    "heroImage": "/Images/Services/Wound Dressing at Home.webp",
+    "comprehensiveDescription": "Professional wound care and dressing changes at your convenience. Expert treatment for surgical wounds, diabetic ulcers, pressure sores, and chronic wounds. Sterile technique, proper wound assessment, and regular monitoring to promote healing and prevent infection.",
+    "comprehensiveParagraphs": [
+      "Our professional nurses provide expert wound care and dressing changes at your home. We treat surgical wounds, diabetic ulcers, pressure sores, and chronic wounds using sterile techniques and proper wound assessment. Our service includes regular monitoring to promote healing and prevent infection, ensuring optimal recovery for patients.",
+      null,
+      "Recognized as the best home nursing service in delhi ncr, we dispatch a professional nurse at home for all your clinical needs. Our trained healthcare professionals are fully equipped for doctor prescribed medical procedures at home.",
+      "As your trusted home healthcare provider, we offer a same day nursing visit and comprehensive 24/7 nursing support across Delhi, Noida, Greater Noida, Ghaziabad, Gurugram, and Faridabad."
+    ],
+    "features": [
+      {
+        "title": "Expert Nurses",
+        "description": "Trained professionals with expertise in wound care and management.",
+        "icon": "FaUserNurse"
+      },
+      {
+        "title": "Sterile Technique",
+        "description": "Complete sterile procedure ensuring infection prevention.",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Wound Assessment",
+        "description": "Proper evaluation and monitoring of wound healing progress.",
+        "icon": "FaStethoscope"
+      },
+      {
+        "title": "Proper Dressing",
+        "description": "Appropriate dressing materials and techniques for optimal healing.",
+        "icon": "FaNotesMedical"
+      },
+      {
+        "title": "Infection Prevention",
+        "description": "Strict protocols to prevent infections and complications.",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "On-Call Service",
+        "description": "Available when you need us with quick response times.",
+        "icon": "FaAmbulance"
+      }
+    ],
+    "whoNeeds": [
+      {
+        "title": "Surgical wound dressing"
+      },
+      {
+        "title": "Diabetic ulcer care"
+      },
+      {
+        "title": "Pressure sore treatment"
+      },
+      {
+        "title": "Chronic wound management"
+      },
+      {
+        "title": "Wound assessment and monitoring"
+      },
+      {
+        "title": "Caregiver training"
+      }
+    ],
+    "careMonitoring": [
+      {
+        "title": "Daily Reports",
+        "description": "Regular updates on patient's condition",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Vitals Tracking",
+        "description": "Continuous monitoring of essential vitals",
+        "icon": "FaHeartbeat"
+      },
+      {
+        "title": "Doctor Updates",
+        "description": "Direct communication with primary physicians",
+        "icon": "FaUserMd"
+      }
+    ],
+    "safetyTrust": [
+      {
+        "title": "Verified Staff",
+        "description": "Complete background checks",
+        "icon": "FaShieldAlt"
+      },
+      {
+        "title": "Certified",
+        "description": "Fully licensed professionals",
+        "icon": "FaCertificate"
+      },
+      {
+        "title": "24/7 Support",
+        "description": "Round-the-clock emergency assistance",
+        "icon": "FaPhoneAlt"
+      }
+    ]
+  }
+}

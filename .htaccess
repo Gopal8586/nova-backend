@@ -1,0 +1,21 @@
+# Backend API Configuration
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  
+  # Disable directory browsing for security
+  Options -Indexes
+  
+  # Optional: Handle CORS preflight requests directly via Apache (if needed)
+  # Header always set Access-Control-Allow-Origin "*"
+  # Header always set Access-Control-Allow-Methods "POST, GET, OPTIONS, DELETE, PUT"
+  # Header always set Access-Control-Allow-Headers "Origin, Content-Type, Accept, Authorization"
+  
+  # For Hostinger Node.js deployments using Phusion Passenger, 
+  # the backend routing is typically handled automatically,
+  # but you can add custom RewriteRules here if you have a custom proxy setup.
+</IfModule>
+
+# SECURE .ENV FILE - Prevents anyone from downloading it if placed in public_html
+<FilesMatch "^\.env">
+  Require all denied
+</FilesMatch>
